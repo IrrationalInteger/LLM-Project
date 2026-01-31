@@ -1,0 +1,5448 @@
+MCQID,ID,country,prompt,choices
+Ni-en-11_0,Ni-en-11,US,"In the US, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 17
+B. 2
+C. 5
+D. 8
+
+Answer:","{
+    ""A"": ""17"",
+    ""B"": ""2"",
+    ""C"": ""5"",
+    ""D"": ""8""
+}"
+Gu-ch-09_112,Gu-ch-09,US,"What sports do women like to play the most in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. gymnastics
+C. netball
+D. volleyball
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""gymnastics"",
+    ""C"": ""netball"",
+    ""D"": ""volleyball""
+}"
+An-ar-03_44,An-ar-03,Iran,"Which month is the final exam term usually scheduled at high schools in Iran? (Provide Arabic numerals (1~12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10
+B. 13
+C. 3
+D. 6
+
+Answer:","{
+    ""A"": ""10"",
+    ""B"": ""13"",
+    ""C"": ""3"",
+    ""D"": ""6""
+}"
+An-ar-43_150,An-ar-43,Iran,"What are the common places or venues where individuals in Iran usually gather to watch sports broadcasts? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafe
+B. family
+C. pub
+D. sports bar
+
+Answer:","{
+    ""A"": ""cafe"",
+    ""B"": ""family"",
+    ""C"": ""pub"",
+    ""D"": ""sports bar""
+}"
+Th-en-38_0,Th-en-38,UK,"What is the most important family holiday in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bihu
+B. christmas
+C. eid al-fitr
+D. lunar new year
+
+Answer:","{
+    ""A"": ""bihu"",
+    ""B"": ""christmas"",
+    ""C"": ""eid al-fitr"",
+    ""D"": ""lunar new year""
+}"
+New-pe-20_4,New-pe-20,US,"What sport is popular to play on the beach in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. rackets
+B. surfing
+C. swimming
+D. volleyball
+
+Answer:","{
+    ""A"": ""rackets"",
+    ""B"": ""surfing"",
+    ""C"": ""swimming"",
+    ""D"": ""volleyball""
+}"
+Jod-ch-09_60,Jod-ch-09,China,"What time do people usually have dinner in China? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 08:00
+B. 18:00
+C. 18:30
+D. 20:00
+
+Answer:","{
+    ""A"": ""08:00"",
+    ""B"": ""18:00"",
+    ""C"": ""18:30"",
+    ""D"": ""20:00""
+}"
+New-as-02_0,New-as-02,UK,"What is the most popular wheat-based food item in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. couscous
+C. jeon
+D. tortillas
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""couscous"",
+    ""C"": ""jeon"",
+    ""D"": ""tortillas""
+}"
+Ni-en-03_24,Ni-en-03,Iran,"At what age do people in Iran typically go to university? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 17
+B. 18
+C. 19
+D. 35
+
+Answer:","{
+    ""A"": ""17"",
+    ""B"": ""18"",
+    ""C"": ""19"",
+    ""D"": ""35""
+}"
+New-pe-49_20,New-pe-49,China,"Where do families gather to pray together in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. church
+B. in the mosque
+C. public library
+D. temple
+
+Answer:","{
+    ""A"": ""church"",
+    ""B"": ""in the mosque"",
+    ""C"": ""public library"",
+    ""D"": ""temple""
+}"
+Ni-en-15_10,Ni-en-15,US,"At what age do children in the US generally start secondary school? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 11
+B. 13
+C. 14
+D. 15
+
+Answer:","{
+    ""A"": ""11"",
+    ""B"": ""13"",
+    ""C"": ""14"",
+    ""D"": ""15""
+}"
+New-ch-23_70,New-ch-23,Iran,"Who is the most famous table tennis player in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hyun jung-hwa
+B. li bun-hui
+C. monalisa boruwa mehta
+D. noshad alamiyan
+
+Answer:","{
+    ""A"": ""hyun jung-hwa"",
+    ""B"": ""li bun-hui"",
+    ""C"": ""monalisa boruwa mehta"",
+    ""D"": ""noshad alamiyan""
+}"
+Ki-pe-32_0,Ki-pe-32,US,"What food do the hosts usually prepare for the guests in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. arrangement of rice
+B. chicken stew
+C. chips
+D. dolma
+
+Answer:","{
+    ""A"": ""arrangement of rice"",
+    ""B"": ""chicken stew"",
+    ""C"": ""chips"",
+    ""D"": ""dolma""
+}"
+New-am-53_660,New-am-53,China,"Which region in China is widely known for its coffee/tea industry? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. boseong
+B. dibrugarh
+C. oromia
+D. yunnan
+
+Answer:","{
+    ""A"": ""boseong"",
+    ""B"": ""dibrugarh"",
+    ""C"": ""oromia"",
+    ""D"": ""yunnan""
+}"
+New-ch-38_0,New-ch-38,UK,"Which cities or regions are known for their import and export activities in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barcelona
+B. busan
+C. london
+D. new york city
+
+Answer:","{
+    ""A"": ""barcelona"",
+    ""B"": ""busan"",
+    ""C"": ""london"",
+    ""D"": ""new york city""
+}"
+New-su-88_0,New-su-88,UK,"What is the most popular music genre among the younger population in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bank
+B. pop
+C. rai
+D. reggaeton
+
+Answer:","{
+    ""A"": ""bank"",
+    ""B"": ""pop"",
+    ""C"": ""rai"",
+    ""D"": ""reggaeton""
+}"
+New-ch-27_120,New-ch-27,US,"Who is the most famous boxer in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chris john
+B. lovlina borgohain
+C. michalis zambidis
+D. muhammad ali
+
+Answer:","{
+    ""A"": ""chris john"",
+    ""B"": ""lovlina borgohain"",
+    ""C"": ""michalis zambidis"",
+    ""D"": ""muhammad ali""
+}"
+Ki-pe-34_10,Ki-pe-34,US,"What is the usual drink in the breakfast in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. carbonated soda
+B. coffee
+C. pap
+D. tea
+
+Answer:","{
+    ""A"": ""carbonated soda"",
+    ""B"": ""coffee"",
+    ""C"": ""pap"",
+    ""D"": ""tea""
+}"
+New-ch-72_0,New-ch-72,UK,"Which major is considered most conducive to employment in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business
+B. culinary arts
+C. engineering
+D. mathematics
+
+Answer:","{
+    ""A"": ""business"",
+    ""B"": ""culinary arts"",
+    ""C"": ""engineering"",
+    ""D"": ""mathematics""
+}"
+New-pe-74_0,New-pe-74,US,"How much is the average annual tuition fee for public universities in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 150
+B. 30
+C. 500
+D. free
+
+Answer:","{
+    ""A"": ""150"",
+    ""B"": ""30"",
+    ""C"": ""500"",
+    ""D"": ""free""
+}"
+Sa-en-37_0,Sa-en-37,UK,"What is the most popular family boardgame in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. backgammon
+B. carrom
+C. mexican bingo
+D. monopoly
+
+Answer:","{
+    ""A"": ""backgammon"",
+    ""B"": ""carrom"",
+    ""C"": ""mexican bingo"",
+    ""D"": ""monopoly""
+}"
+Na-ko-23_21,Na-ko-23,Iran,"What type of sports academies do children attend the most in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. cooking school
+C. swimming
+D. taekwondo
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""cooking school"",
+    ""C"": ""swimming"",
+    ""D"": ""taekwondo""
+}"
+New-spme-04_678,New-spme-04,Iran,"Which agricultural product is exported most often in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. oranges
+C. pistachio
+D. tea leaf
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""oranges"",
+    ""C"": ""pistachio"",
+    ""D"": ""tea leaf""
+}"
+New-en-02_236,New-en-02,China,"What is the most popular chip/crisp flavour in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cucumber
+B. oregano
+C. paprika
+D. salted
+
+Answer:","{
+    ""A"": ""cucumber"",
+    ""B"": ""oregano"",
+    ""C"": ""paprika"",
+    ""D"": ""salted""
+}"
+Th-en-22_42,Th-en-22,China,"What was the most catastrophic economic period for China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2008
+B. covid period
+C. industrial revolution
+D. monetary crisis
+
+Answer:","{
+    ""A"": ""2008"",
+    ""B"": ""covid period"",
+    ""C"": ""industrial revolution"",
+    ""D"": ""monetary crisis""
+}"
+Ne-ar-11_24,Ne-ar-11,China,"Where do people from China go to celebrate New Year's Day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. east sea
+B. home
+C. picnic
+D. to the beach
+
+Answer:","{
+    ""A"": ""east sea"",
+    ""B"": ""home"",
+    ""C"": ""picnic"",
+    ""D"": ""to the beach""
+}"
+Th-en-03_48,Th-en-03,Iran,"What is the most popular professional sports league in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. football
+B. kbo
+C. professional league
+D. tour de france
+
+Answer:","{
+    ""A"": ""football"",
+    ""B"": ""kbo"",
+    ""C"": ""professional league"",
+    ""D"": ""tour de france""
+}"
+New-az-12_165,New-az-12,US,"Which region in the US is known for its seafood? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. busan
+B. cornwall
+C. galicia
+D. new england
+
+Answer:","{
+    ""A"": ""busan"",
+    ""B"": ""cornwall"",
+    ""C"": ""galicia"",
+    ""D"": ""new england""
+}"
+New-en-19_0,New-en-19,UK,"What is the most well known sporting stadium in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bernabéu
+B. gelora bung karno
+C. nehru
+D. wembley
+
+Answer:","{
+    ""A"": ""bernabéu"",
+    ""B"": ""gelora bung karno"",
+    ""C"": ""nehru"",
+    ""D"": ""wembley""
+}"
+Al-en-43_19,Al-en-43,China,"What is a popular indoor activity for families in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. crafting
+B. eating
+C. mahjong
+D. sweep
+
+Answer:","{
+    ""A"": ""crafting"",
+    ""B"": ""eating"",
+    ""C"": ""mahjong"",
+    ""D"": ""sweep""
+}"
+New-am-34_24,New-am-34,China,"Where do most elementary school students prepare for their exams in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. community centers
+B. home
+C. house
+D. on the field
+
+Answer:","{
+    ""A"": ""community centers"",
+    ""B"": ""home"",
+    ""C"": ""house"",
+    ""D"": ""on the field""
+}"
+New-spme-65_198,New-spme-65,Iran,"What is the most popular way to celebrate Independence Day in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fireworks
+B. flag hoisting
+C. not-applicable
+D. participating in a contest
+
+Answer:","{
+    ""A"": ""fireworks"",
+    ""B"": ""flag hoisting"",
+    ""C"": ""not-applicable"",
+    ""D"": ""participating in a contest""
+}"
+New-en-08_167,New-en-08,China,"What is the most popular chocolate brand in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Cadbury's, Cadbury
+B. ambassadeur
+C. dove
+D. lacta
+
+Answer:","{
+    ""A"": ""Cadbury's, Cadbury"",
+    ""B"": ""ambassadeur"",
+    ""C"": ""dove"",
+    ""D"": ""lacta""
+}"
+Ne-ar-37_400,Ne-ar-37,China,"Which fruit do people usually offer tourists/visitors from abroad in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. mango
+C. pomegranate
+D. snake fruit
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""mango"",
+    ""C"": ""pomegranate"",
+    ""D"": ""snake fruit""
+}"
+New-en-19_215,New-en-19,Iran,"What is the most well known sporting stadium in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. azadi stadium
+B. bernabéu
+C. gelora bung karno
+D. wembley
+
+Answer:","{
+    ""A"": ""azadi stadium"",
+    ""B"": ""bernabéu"",
+    ""C"": ""gelora bung karno"",
+    ""D"": ""wembley""
+}"
+Kik-in-45_0,Kik-in-45,UK,"What sports field facilities are usually available at schools in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. football pitch
+C. ping pong table
+D. stadiums
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""football pitch"",
+    ""C"": ""ping pong table"",
+    ""D"": ""stadiums""
+}"
+Jo-sp-32_1,Jo-sp-32,UK,"What sport do elementary school students tend to practice at school in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. dodgeball
+C. jump rope
+D. soccer
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""dodgeball"",
+    ""C"": ""jump rope"",
+    ""D"": ""soccer""
+}"
+New-pe-83_0,New-pe-83,UK,"What is the popular card game played during social gatherings in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. durak
+B. matgo
+C. poker
+D. sasaki
+
+Answer:","{
+    ""A"": ""durak"",
+    ""B"": ""matgo"",
+    ""C"": ""poker"",
+    ""D"": ""sasaki""
+}"
+Ji-ko-42_1,Ji-ko-42,UK,"What are the required subjects in the UK's university entrance exam? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chinese
+B. culinary arts
+C. english
+D. history
+
+Answer:","{
+    ""A"": ""chinese"",
+    ""B"": ""culinary arts"",
+    ""C"": ""english"",
+    ""D"": ""history""
+}"
+Jod-ch-15_57,Jod-ch-15,China,"What kind of seafood do people from China like to eat? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beef steak
+B. calamari
+C. crab
+D. mussels
+
+Answer:","{
+    ""A"": ""beef steak"",
+    ""B"": ""calamari"",
+    ""C"": ""crab"",
+    ""D"": ""mussels""
+}"
+New-az-05_259,New-az-05,Iran,"What is the most famous region for alcohol production in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. andong
+B. bali
+C. not-applicable
+D. sichuan
+
+Answer:","{
+    ""A"": ""andong"",
+    ""B"": ""bali"",
+    ""C"": ""not-applicable"",
+    ""D"": ""sichuan""
+}"
+New-en-05_0,New-en-05,UK,"Which food is a cost-effective and quick meal option in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans on toast
+B. instant noodles
+C. karantika
+D. tacos
+
+Answer:","{
+    ""A"": ""beans on toast"",
+    ""B"": ""instant noodles"",
+    ""C"": ""karantika"",
+    ""D"": ""tacos""
+}"
+Ji-ko-45_90,Ji-ko-45,Iran,"What do people look forward to the most at university festivals in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alcohol
+B. holiday
+C. not-applicable
+D. singer
+
+Answer:","{
+    ""A"": ""alcohol"",
+    ""B"": ""holiday"",
+    ""C"": ""not-applicable"",
+    ""D"": ""singer""
+}"
+Ji-ko-03_0,Ji-ko-03,UK,"Which region/city has the highest number of financial companies in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. New York City
+B. algiers
+C. jakarta
+D. london
+
+Answer:","{
+    ""A"": ""New York City"",
+    ""B"": ""algiers"",
+    ""C"": ""jakarta"",
+    ""D"": ""london""
+}"
+Jo-sp-32_76,Jo-sp-32,China,"What sport do elementary school students tend to practice at school in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. dodgeball
+C. running
+D. volleyball
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""dodgeball"",
+    ""C"": ""running"",
+    ""D"": ""volleyball""
+}"
+Ca-sp-45_0,Ca-sp-45,US,"What type of destination is commonly chosen for a family vacation in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. canary islands
+C. mountain
+D. ocean
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""canary islands"",
+    ""C"": ""mountain"",
+    ""D"": ""ocean""
+}"
+New-am-74_0,New-am-74,UK,"What is the most popular talk show in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el hormiguero
+B. graham norton
+C. mata najwa
+D. rock & roast
+
+Answer:","{
+    ""A"": ""el hormiguero"",
+    ""B"": ""graham norton"",
+    ""C"": ""mata najwa"",
+    ""D"": ""rock & roast""
+}"
+Al-en-19_152,Al-en-19,China,"What is a popular second language for high school students in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. english
+B. french
+C. hindi
+D. spanish
+
+Answer:","{
+    ""A"": ""english"",
+    ""B"": ""french"",
+    ""C"": ""hindi"",
+    ""D"": ""spanish""
+}"
+Jod-ch-09_0,Jod-ch-09,UK,"What time do people usually have dinner in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 08:00
+B. 18:00
+C. 20:00
+D. 21:00
+
+Answer:","{
+    ""A"": ""08:00"",
+    ""B"": ""18:00"",
+    ""C"": ""20:00"",
+    ""D"": ""21:00""
+}"
+New-en-87_0,New-en-87,UK,"What is the most famous historic landmark in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. maiden tower
+B. rang ghar
+C. stonehenge
+D. the alhambra
+
+Answer:","{
+    ""A"": ""maiden tower"",
+    ""B"": ""rang ghar"",
+    ""C"": ""stonehenge"",
+    ""D"": ""the alhambra""
+}"
+New-en-68_95,New-en-68,China,"What repercussions are there for bad behavior in schools in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. call parents
+B. cleaning
+C. parent-teacher conference
+D. suspension
+
+Answer:","{
+    ""A"": ""call parents"",
+    ""B"": ""cleaning"",
+    ""C"": ""parent-teacher conference"",
+    ""D"": ""suspension""
+}"
+New-gr-76_0,New-gr-76,UK,"What is the most common food served during Easter in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. egg
+B. french toasts
+C. kulich
+D. roast lamb
+
+Answer:","{
+    ""A"": ""egg"",
+    ""B"": ""french toasts"",
+    ""C"": ""kulich"",
+    ""D"": ""roast lamb""
+}"
+New-ch-66_40,New-ch-66,China,"What is the typical tuition fee per semester for public high schools in China?  (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 0
+B. 1000
+C. 10000
+D. 2749
+
+Answer:","{
+    ""A"": ""0"",
+    ""B"": ""1000"",
+    ""C"": ""10000"",
+    ""D"": ""2749""
+}"
+New-az-73_9,New-az-73,China,"How many people on average typically attend a wedding in China? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 100
+B. 1000
+C. 300
+D. 50
+
+Answer:","{
+    ""A"": ""100"",
+    ""B"": ""1000"",
+    ""C"": ""300"",
+    ""D"": ""50""
+}"
+New-am-15_0,New-am-15,US,"What food is usually prepared when mothers give birth in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken soup
+B. miyuk guk
+C. not-applicable
+D. porridge
+
+Answer:","{
+    ""A"": ""chicken soup"",
+    ""B"": ""miyuk guk"",
+    ""C"": ""not-applicable"",
+    ""D"": ""porridge""
+}"
+Ta-pe-10_97,Ta-pe-10,Iran,"At what age do men usually get married in Iran? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 27
+B. 30
+C. 32
+D. 35
+
+Answer:","{
+    ""A"": ""27"",
+    ""B"": ""30"",
+    ""C"": ""32"",
+    ""D"": ""35""
+}"
+Th-en-15_30,Th-en-15,Iran,"What is the most popular winter sport in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hockey
+B. running
+C. skating
+D. skiing
+
+Answer:","{
+    ""A"": ""hockey"",
+    ""B"": ""running"",
+    ""C"": ""skating"",
+    ""D"": ""skiing""
+}"
+New-en-68_102,New-en-68,Iran,"What repercussions are there for bad behavior in schools in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cleaning
+B. detention
+C. expulsion
+D. school transfer
+
+Answer:","{
+    ""A"": ""cleaning"",
+    ""B"": ""detention"",
+    ""C"": ""expulsion"",
+    ""D"": ""school transfer""
+}"
+New-pe-16_412,New-pe-16,Iran,"What is the most famous traditional sport in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. american football
+B. ping pong
+C. soccer
+D. wrestling
+
+Answer:","{
+    ""A"": ""american football"",
+    ""B"": ""ping pong"",
+    ""C"": ""soccer"",
+    ""D"": ""wrestling""
+}"
+Ne-ar-18_22,Ne-ar-18,China,"At what time do most people finish work in China? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 08:00
+B. 16:00
+C. 17:00
+D. 18:00
+
+Answer:","{
+    ""A"": ""08:00"",
+    ""B"": ""16:00"",
+    ""C"": ""17:00"",
+    ""D"": ""18:00""
+}"
+New-az-73_0,New-az-73,UK,"How many people on average typically attend a wedding in the UK? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 100
+B. 1000
+C. 30
+D. 300
+
+Answer:","{
+    ""A"": ""100"",
+    ""B"": ""1000"",
+    ""C"": ""30"",
+    ""D"": ""300""
+}"
+New-ch-30_0,New-ch-30,UK,"Who is the most famous track and field athlete in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hima das
+B. jong song-ok
+C. liu xiang
+D. mo farah
+
+Answer:","{
+    ""A"": ""hima das"",
+    ""B"": ""jong song-ok"",
+    ""C"": ""liu xiang"",
+    ""D"": ""mo farah""
+}"
+Na-ko-20_0,Na-ko-20,UK,"What sports event do people from the UK passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. running
+D. soccer
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""running"",
+    ""D"": ""soccer""
+}"
+Ca-sp-41_1,Ca-sp-41,US,"Where do the dependent elderly usually live in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. assisted living
+B. children's home
+C. houses of prosperity
+D. in nursing homes
+
+Answer:","{
+    ""A"": ""assisted living"",
+    ""B"": ""children's home"",
+    ""C"": ""houses of prosperity"",
+    ""D"": ""in nursing homes""
+}"
+An-ar-36_1364,An-ar-36,China,"What is the most popular sport team in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. esteghlal
+B. mca
+C. persib
+D. table tennis team
+
+Answer:","{
+    ""A"": ""esteghlal"",
+    ""B"": ""mca"",
+    ""C"": ""persib"",
+    ""D"": ""table tennis team""
+}"
+Na-ko-39_44,Na-ko-39,China,"What is typically given as a congratulatory gesture when attending a friend's wedding in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gift from the wedding list
+B. money
+C. red envelope
+D. throw rice
+
+Answer:","{
+    ""A"": ""gift from the wedding list"",
+    ""B"": ""money"",
+    ""C"": ""red envelope"",
+    ""D"": ""throw rice""
+}"
+New-su-82_103,New-su-82,Iran,"What clothes do brides usually wear at weddings in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business suit
+B. long white dress
+C. silk attire
+D. sundanese kebaya
+
+Answer:","{
+    ""A"": ""business suit"",
+    ""B"": ""long white dress"",
+    ""C"": ""silk attire"",
+    ""D"": ""sundanese kebaya""
+}"
+Ca-sp-29_260,Ca-sp-29,China,"What tradition is there in China for New Year's Eve? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. auld lang syne
+B. barbeque
+C. not-applicable
+D. set off firecrackers
+
+Answer:","{
+    ""A"": ""auld lang syne"",
+    ""B"": ""barbeque"",
+    ""C"": ""not-applicable"",
+    ""D"": ""set off firecrackers""
+}"
+Na-ko-30_16,Na-ko-30,China,"What is the most popular e-sports game in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fortnite
+B. honor of kings
+C. pubg
+D. scrabble
+
+Answer:","{
+    ""A"": ""fortnite"",
+    ""B"": ""honor of kings"",
+    ""C"": ""pubg"",
+    ""D"": ""scrabble""
+}"
+An-ar-03_0,An-ar-03,UK,"Which month is the final exam term usually scheduled at high schools in the UK? (Provide Arabic numerals (1~12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10
+B. 13
+C. 3
+D. 5
+
+Answer:","{
+    ""A"": ""10"",
+    ""B"": ""13"",
+    ""C"": ""3"",
+    ""D"": ""5""
+}"
+Th-en-15_16,Th-en-15,China,"What is the most popular winter sport in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hockey
+B. rugby
+C. running
+D. skiing
+
+Answer:","{
+    ""A"": ""hockey"",
+    ""B"": ""rugby"",
+    ""C"": ""running"",
+    ""D"": ""skiing""
+}"
+Ca-sp-29_0,Ca-sp-29,UK,"What tradition is there in the UK for New Year's Eve? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbeque
+B. eat the grapes to the rhythm of the clock in the square
+C. fireworks
+D. food for lunar new year
+
+Answer:","{
+    ""A"": ""barbeque"",
+    ""B"": ""eat the grapes to the rhythm of the clock in the square"",
+    ""C"": ""fireworks"",
+    ""D"": ""food for lunar new year""
+}"
+New-ch-78_40,New-ch-78,US,"What leisure activities do retired women typically like in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cooking
+B. excursion
+C. knitting
+D. square dance
+
+Answer:","{
+    ""A"": ""cooking"",
+    ""B"": ""excursion"",
+    ""C"": ""knitting"",
+    ""D"": ""square dance""
+}"
+Ki-pe-51_0,Ki-pe-51,UK,"What time of day are government offices closed in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 14:00
+B. 15:00
+C. 17:00
+D. 20:00
+
+Answer:","{
+    ""A"": ""14:00"",
+    ""B"": ""15:00"",
+    ""C"": ""17:00"",
+    ""D"": ""20:00""
+}"
+New-spme-04_528,New-spme-04,China,"Which agricultural product is exported most often in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ginseng
+B. pistachio
+C. tea leaf
+D. vegetable
+
+Answer:","{
+    ""A"": ""ginseng"",
+    ""B"": ""pistachio"",
+    ""C"": ""tea leaf"",
+    ""D"": ""vegetable""
+}"
+Ne-ar-26_56,Ne-ar-26,US,"What is the most famous public corporation in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bbc
+B. korea electric power corporation
+C. microsoft
+D. sonatrach
+
+Answer:","{
+    ""A"": ""bbc"",
+    ""B"": ""korea electric power corporation"",
+    ""C"": ""microsoft"",
+    ""D"": ""sonatrach""
+}"
+Kik-in-10_0,Kik-in-10,UK,"What is the most popular tourist attraction for foreign visitors in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buckingham palace
+B. great wall
+C. lalibela's church
+D. sagrada família
+
+Answer:","{
+    ""A"": ""buckingham palace"",
+    ""B"": ""great wall"",
+    ""C"": ""lalibela's church"",
+    ""D"": ""sagrada família""
+}"
+New-ha-66_35,New-ha-66,US,"What is the most popular wedding venue in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. church
+B. house
+C. mosque
+D. wedding hall
+
+Answer:","{
+    ""A"": ""church"",
+    ""B"": ""house"",
+    ""C"": ""mosque"",
+    ""D"": ""wedding hall""
+}"
+Ne-ar-39_0,Ne-ar-39,UK,"What is the cheapest fast food in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doner kebab
+B. falafel
+C. karantika
+D. mcdonalds
+
+Answer:","{
+    ""A"": ""doner kebab"",
+    ""B"": ""falafel"",
+    ""C"": ""karantika"",
+    ""D"": ""mcdonalds""
+}"
+New-gr-88_14,New-gr-88,China,"What drink is usually offered at funerals in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bai
+B. coffee
+C. mineral water
+D. soju
+
+Answer:","{
+    ""A"": ""bai"",
+    ""B"": ""coffee"",
+    ""C"": ""mineral water"",
+    ""D"": ""soju""
+}"
+Na-ko-04_95,Na-ko-04,Iran,"What is the preferred hangover cure food for people from Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bacon sandwich
+B. khash
+C. not-applicable
+D. shiro fitfit
+
+Answer:","{
+    ""A"": ""bacon sandwich"",
+    ""B"": ""khash"",
+    ""C"": ""not-applicable"",
+    ""D"": ""shiro fitfit""
+}"
+New-ch-27_0,New-ch-27,UK,"Who is the most famous boxer in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chris john
+B. lovlina borgohain
+C. michalis zambidis
+D. tyson fury
+
+Answer:","{
+    ""A"": ""chris john"",
+    ""B"": ""lovlina borgohain"",
+    ""C"": ""michalis zambidis"",
+    ""D"": ""tyson fury""
+}"
+New-az-27_14,New-az-27,China,"Which sport has been one of the fastest-growing in China over the last decade? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. cricket
+C. soccer
+D. volleyball
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""cricket"",
+    ""C"": ""soccer"",
+    ""D"": ""volleyball""
+}"
+Kik-in-10_1638,Kik-in-10,China,"What is the most popular tourist attraction for foreign visitors in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buckingham palace
+B. great wall
+C. lalibela's church
+D. sagrada família
+
+Answer:","{
+    ""A"": ""buckingham palace"",
+    ""B"": ""great wall"",
+    ""C"": ""lalibela's church"",
+    ""D"": ""sagrada família""
+}"
+New-en-69_286,New-en-69,US,"Which writers are commonly studied in literature class in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cervantes
+B. edgar allen poe
+C. lu xun
+D. nezāmi
+
+Answer:","{
+    ""A"": ""cervantes"",
+    ""B"": ""edgar allen poe"",
+    ""C"": ""lu xun"",
+    ""D"": ""nezāmi""
+}"
+Ji-ko-07_330,Ji-ko-07,China,"What is the most famous private company in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dangote company
+B. midroc
+C. samsung
+D. tencent
+
+Answer:","{
+    ""A"": ""dangote company"",
+    ""B"": ""midroc"",
+    ""C"": ""samsung"",
+    ""D"": ""tencent""
+}"
+Ki-pe-34_89,Ki-pe-34,Iran,"What is the usual drink in the breakfast in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. carbonated soda
+B. pap
+C. soy milk
+D. tea
+
+Answer:","{
+    ""A"": ""carbonated soda"",
+    ""B"": ""pap"",
+    ""C"": ""soy milk"",
+    ""D"": ""tea""
+}"
+Ni-en-15_64,Ni-en-15,Iran,"At what age do children in Iran generally start secondary school? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10
+B. 12
+C. 15
+D. 7
+
+Answer:","{
+    ""A"": ""10"",
+    ""B"": ""12"",
+    ""C"": ""15"",
+    ""D"": ""7""
+}"
+Sa-en-16_0,Sa-en-16,UK,"What is the most popular soccer team among the people from the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. america
+B. madrid
+C. man united, Man Utd, manchester utd
+D. olympiacos
+
+Answer:","{
+    ""A"": ""america"",
+    ""B"": ""madrid"",
+    ""C"": ""man united, Man Utd, manchester utd"",
+    ""D"": ""olympiacos""
+}"
+New-gr-24_94,New-gr-24,China,"What is the most popular track and field sport in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 100 metres
+B. badminton
+C. hurdling
+D. marathon
+
+Answer:","{
+    ""A"": ""100 metres"",
+    ""B"": ""badminton"",
+    ""C"": ""hurdling"",
+    ""D"": ""marathon""
+}"
+New-ko-04_2,New-ko-04,UK,"Which toys are most popular among boys in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. beads
+C. cars
+D. robot
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""beads"",
+    ""C"": ""cars"",
+    ""D"": ""robot""
+}"
+Gu-ch-07_76,Gu-ch-07,China,"Who is the most famous basketball player in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Michael Jordan
+B. pau gasol
+C. seo jang-hoon
+D. yao ming
+
+Answer:","{
+    ""A"": ""Michael Jordan"",
+    ""B"": ""pau gasol"",
+    ""C"": ""seo jang-hoon"",
+    ""D"": ""yao ming""
+}"
+New-az-21_420,New-az-21,China,"Which region in China is the most popular skiing destination? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. northeast
+B. parnassus
+C. qusar
+D. scotland
+
+Answer:","{
+    ""A"": ""northeast"",
+    ""B"": ""parnassus"",
+    ""C"": ""qusar"",
+    ""D"": ""scotland""
+}"
+New-as-30_0,New-as-30,UK,"What sport do women in the UK like to watch? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. tennis
+D. volleyball
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""tennis"",
+    ""D"": ""volleyball""
+}"
+Al-en-43_31,Al-en-43,Iran,"What is a popular indoor activity for families in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eating
+B. mahjong
+C. sweep
+D. watching series
+
+Answer:","{
+    ""A"": ""eating"",
+    ""B"": ""mahjong"",
+    ""C"": ""sweep"",
+    ""D"": ""watching series""
+}"
+New-as-20_272,New-as-20,China,"What is the most popular indoor sport in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. chess
+C. ludo
+D. ping pong
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""chess"",
+    ""C"": ""ludo"",
+    ""D"": ""ping pong""
+}"
+New-gr-24_0,New-gr-24,UK,"What is the most popular track and field sport in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. ball
+C. running
+D. soccer
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""ball"",
+    ""C"": ""running"",
+    ""D"": ""soccer""
+}"
+Al-en-35_38,Al-en-35,China,"What do people do to celebrate Christmas in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dinner
+B. exchange gifts
+C. go to church
+D. not-applicable
+
+Answer:","{
+    ""A"": ""dinner"",
+    ""B"": ""exchange gifts"",
+    ""C"": ""go to church"",
+    ""D"": ""not-applicable""
+}"
+Al-en-37_20,Al-en-37,US,"What food is associated with Christmas in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. gingerbread
+C. melomakarona
+D. roasted pork leg
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""gingerbread"",
+    ""C"": ""melomakarona"",
+    ""D"": ""roasted pork leg""
+}"
+Na-ko-20_497,Na-ko-20,Iran,"What sports event do people from Iran passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baseball
+B. basketball
+C. fifa world cup
+D. running
+
+Answer:","{
+    ""A"": ""baseball"",
+    ""B"": ""basketball"",
+    ""C"": ""fifa world cup"",
+    ""D"": ""running""
+}"
+Na-ko-25_112,Na-ko-25,US,"What are the typical sports played in the US's school sports day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. long jump
+D. race
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""long jump"",
+    ""D"": ""race""
+}"
+New-pe-86_20,New-pe-86,US,"What is the name of the most famous tower in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. empire state building
+B. national monument
+C. oriental pearl
+D. white
+
+Answer:","{
+    ""A"": ""empire state building"",
+    ""B"": ""national monument"",
+    ""C"": ""oriental pearl"",
+    ""D"": ""white""
+}"
+New-ch-16_0,New-ch-16,UK,"What is the most famous sports-related movie in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bend it like beckham
+B. campeones
+C. leap
+D. rocky
+
+Answer:","{
+    ""A"": ""bend it like beckham"",
+    ""B"": ""campeones"",
+    ""C"": ""leap"",
+    ""D"": ""rocky""
+}"
+Ca-sp-42_146,Ca-sp-42,China,"How long (in weeks) is China's maternity leave for mums? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 14
+C. 16
+D. 52
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""14"",
+    ""C"": ""16"",
+    ""D"": ""52""
+}"
+Kik-in-10_3224,Kik-in-10,Iran,"What is the most popular tourist attraction for foreign visitors in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buckingham palace
+B. great wall
+C. persepolis
+D. sagrada família
+
+Answer:","{
+    ""A"": ""buckingham palace"",
+    ""B"": ""great wall"",
+    ""C"": ""persepolis"",
+    ""D"": ""sagrada família""
+}"
+New-ch-17_0,New-ch-17,US,"What extreme sport do people generally wish to try the most in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cricket
+B. paragliding
+C. skydiving
+D. soccer
+
+Answer:","{
+    ""A"": ""cricket"",
+    ""B"": ""paragliding"",
+    ""C"": ""skydiving"",
+    ""D"": ""soccer""
+}"
+New-gr-89_44,New-gr-89,China,"What drink is usually offered at weddings in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bai
+B. bottle
+C. coffee
+D. iced fruit
+
+Answer:","{
+    ""A"": ""bai"",
+    ""B"": ""bottle"",
+    ""C"": ""coffee"",
+    ""D"": ""iced fruit""
+}"
+New-en-76_120,New-en-76,US,"Which airport in the US is the busiest during the holiday season? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eleftherios venizelos
+B. heathrow
+C. houari boumediene
+D. jackson international airport (atl)
+
+Answer:","{
+    ""A"": ""eleftherios venizelos"",
+    ""B"": ""heathrow"",
+    ""C"": ""houari boumediene"",
+    ""D"": ""jackson international airport (atl)""
+}"
+Sa-en-13_813,Sa-en-13,Iran,"What is the food that is most divisive (either love or hate) in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. durian
+B. head and hoof stew
+C. marmite
+D. omelette with onion
+
+Answer:","{
+    ""A"": ""durian"",
+    ""B"": ""head and hoof stew"",
+    ""C"": ""marmite"",
+    ""D"": ""omelette with onion""
+}"
+Th-en-35_0,Th-en-35,UK,"Which one of the daily meals is commonly shared with family members in the UK? (e.g., breakfast, lunch, dinner) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dinner
+B. lunch
+C. snacks
+D. tea time
+
+Answer:","{
+    ""A"": ""dinner"",
+    ""B"": ""lunch"",
+    ""C"": ""snacks"",
+    ""D"": ""tea time""
+}"
+Kik-in-35_14,Kik-in-35,China,"What sports were popular among people from China during the COVID-19 pandemic? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aerobics
+B. cycling
+C. e-sports
+D. ludo
+
+Answer:","{
+    ""A"": ""aerobics"",
+    ""B"": ""cycling"",
+    ""C"": ""e-sports"",
+    ""D"": ""ludo""
+}"
+New-in-33_0,New-in-33,UK,"What region in the UK is usually associated with mining? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. papua
+B. sahara
+C. shanxi
+D. yorkshire
+
+Answer:","{
+    ""A"": ""papua"",
+    ""B"": ""sahara"",
+    ""C"": ""shanxi"",
+    ""D"": ""yorkshire""
+}"
+Ji-ko-08_1,Ji-ko-08,US,"What is the maximum number of hours one can work per week in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 32
+B. 40
+C. 48
+D. 52
+
+Answer:","{
+    ""A"": ""32"",
+    ""B"": ""40"",
+    ""C"": ""48"",
+    ""D"": ""52""
+}"
+New-am-60_15,New-am-60,China,"Which animal is typically used for transportation in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. donkey
+C. horse
+D. not-applicable
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""donkey"",
+    ""C"": ""horse"",
+    ""D"": ""not-applicable""
+}"
+Na-ko-15_155,Na-ko-15,China,"What is the representative nourishing food in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ginseng
+B. injera
+C. rice
+D. tuwa
+
+Answer:","{
+    ""A"": ""ginseng"",
+    ""B"": ""injera"",
+    ""C"": ""rice"",
+    ""D"": ""tuwa""
+}"
+Sa-en-6_433,Sa-en-6,Iran,"What is the most popular takeaway food in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fried chicken
+B. indian
+C. pizza
+D. sandwich
+
+Answer:","{
+    ""A"": ""fried chicken"",
+    ""B"": ""indian"",
+    ""C"": ""pizza"",
+    ""D"": ""sandwich""
+}"
+Kik-in-44_1,Kik-in-44,UK,"What sport gets the most support from the government in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. basketball
+C. ping pong
+D. soccer
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""basketball"",
+    ""C"": ""ping pong"",
+    ""D"": ""soccer""
+}"
+New-in-34_165,New-in-34,US,"What region in the US is usually associated with oil? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. TX
+B. andalusia
+C. digboi
+D. scotland
+
+Answer:","{
+    ""A"": ""TX"",
+    ""B"": ""andalusia"",
+    ""C"": ""digboi"",
+    ""D"": ""scotland""
+}"
+Kik-in-02_0,Kik-in-02,US,"What are the common activities people from the US do to celebrate Independence day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fireworks
+B. holding a competition
+C. march
+D. raising the national flag
+
+Answer:","{
+    ""A"": ""fireworks"",
+    ""B"": ""holding a competition"",
+    ""C"": ""march"",
+    ""D"": ""raising the national flag""
+}"
+New-as-76_78,New-as-76,China,"What traditional games do families play during traditional holidays in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. congklak
+B. mahjong
+C. monopoly
+D. yutnori
+
+Answer:","{
+    ""A"": ""congklak"",
+    ""B"": ""mahjong"",
+    ""C"": ""monopoly"",
+    ""D"": ""yutnori""
+}"
+Ca-sp-08_95,Ca-sp-08,China,"What is the most common ingredient used in China's diet? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corn
+B. olive oil
+C. rice
+D. salt
+
+Answer:","{
+    ""A"": ""corn"",
+    ""B"": ""olive oil"",
+    ""C"": ""rice"",
+    ""D"": ""salt""
+}"
+Ta-pe-17_56,Ta-pe-17,US,"In the Olympic Games, which sport is the most popular in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. athletics
+B. badminton
+C. gymnastics
+D. wrestling
+
+Answer:","{
+    ""A"": ""athletics"",
+    ""B"": ""badminton"",
+    ""C"": ""gymnastics"",
+    ""D"": ""wrestling""
+}"
+New-ch-09_105,New-ch-09,Iran,"What food do people typically consume when the weather is cold in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ash (a type of thick soup or stew)
+B. bread
+C. hingel
+D. hot rice
+
+Answer:","{
+    ""A"": ""ash (a type of thick soup or stew)"",
+    ""B"": ""bread"",
+    ""C"": ""hingel"",
+    ""D"": ""hot rice""
+}"
+Gu-ch-18_28,Gu-ch-18,China,"How many children do couples usually have in China? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 3
+C. 4
+D. 5
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""3"",
+    ""C"": ""4"",
+    ""D"": ""5""
+}"
+New-ha-08_20,New-ha-08,US,"What food is typically disliked by children but enjoyed by the elderly in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. muk
+B. traditional mole sauce
+C. tuwo
+D. vegetables
+
+Answer:","{
+    ""A"": ""muk"",
+    ""B"": ""traditional mole sauce"",
+    ""C"": ""tuwo"",
+    ""D"": ""vegetables""
+}"
+Ne-ar-38_120,Ne-ar-38,US,"Which food do people usually offer as charity in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. canned soup
+B. couscous
+C. gheimeh
+D. rice
+
+Answer:","{
+    ""A"": ""canned soup"",
+    ""B"": ""couscous"",
+    ""C"": ""gheimeh"",
+    ""D"": ""rice""
+}"
+Ta-pe-37_657,Ta-pe-37,China,"What is the common symbol of New Year's Eve that is usually found in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fireworks
+B. new year scrolls
+C. poinsettia flower
+D. the grapes
+
+Answer:","{
+    ""A"": ""fireworks"",
+    ""B"": ""new year scrolls"",
+    ""C"": ""poinsettia flower"",
+    ""D"": ""the grapes""
+}"
+New-gr-76_20,New-gr-76,US,"What is the most common food served during Easter in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ham
+B. kulich
+C. lamb on the spit
+D. seafood
+
+Answer:","{
+    ""A"": ""ham"",
+    ""B"": ""kulich"",
+    ""C"": ""lamb on the spit"",
+    ""D"": ""seafood""
+}"
+Jod-ch-04_0,Jod-ch-04,UK,"What soft drink do people in the UK like to have? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. coke
+C. hibiscus drink
+D. sparkling water
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""coke"",
+    ""C"": ""hibiscus drink"",
+    ""D"": ""sparkling water""
+}"
+Sa-en-7_0,Sa-en-7,UK,"What are popular snacks in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheesepuff
+B. cilok
+C. crisps
+D. soft rice
+
+Answer:","{
+    ""A"": ""cheesepuff"",
+    ""B"": ""cilok"",
+    ""C"": ""crisps"",
+    ""D"": ""soft rice""
+}"
+New-su-45_9,New-su-45,Iran,"What date is Education Day celebrated in Iran? (Provide in MM/DD format (e.g., 12/31).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 01/24
+B. 02/12
+C. 04/22
+D. 09/05
+
+Answer:","{
+    ""A"": ""01/24"",
+    ""B"": ""02/12"",
+    ""C"": ""04/22"",
+    ""D"": ""09/05""
+}"
+New-en-07_0,New-en-07,UK,"What are the most popular cooking shows in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Master chef, MasterChef
+B. a bite of china
+C. akushi da rufi
+D. chopped
+
+Answer:","{
+    ""A"": ""Master chef, MasterChef"",
+    ""B"": ""a bite of china"",
+    ""C"": ""akushi da rufi"",
+    ""D"": ""chopped""
+}"
+Gu-ch-15_0,Gu-ch-15,UK,"What sports do male students in university like to play the most in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. badminton
+C. basketball
+D. rugby
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""badminton"",
+    ""C"": ""basketball"",
+    ""D"": ""rugby""
+}"
+Sa-en-16_165,Sa-en-16,US,"What is the most popular soccer team among the people from the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. america
+B. madrid
+C. not-applicable
+D. olympiacos
+
+Answer:","{
+    ""A"": ""america"",
+    ""B"": ""madrid"",
+    ""C"": ""not-applicable"",
+    ""D"": ""olympiacos""
+}"
+Ta-pe-13_37,Ta-pe-13,Iran,"In your parents' generation, what was the average number of members in their family in Iran? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 3
+B. 4
+C. 5
+D. 9
+
+Answer:","{
+    ""A"": ""3"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""9""
+}"
+New-en-18_4,New-en-18,US,"What do fans bring with them when attending a live game in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hand clapper
+B. phone
+C. sign
+D. water bottle
+
+Answer:","{
+    ""A"": ""hand clapper"",
+    ""B"": ""phone"",
+    ""C"": ""sign"",
+    ""D"": ""water bottle""
+}"
+Jod-ch-50_66,Jod-ch-50,Iran,"What is the average commute time (in minutes) for people in Iran? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 200
+C. 45
+D. 70
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""200"",
+    ""C"": ""45"",
+    ""D"": ""70""
+}"
+Nu-in-20_8,Nu-in-20,China,"When is Children's Day celebrated in China? (Provide in MM/DD format (e.g., 12/31).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 04/30
+B. 05/05
+C. 06/01
+D. 11/14
+
+Answer:","{
+    ""A"": ""04/30"",
+    ""B"": ""05/05"",
+    ""C"": ""06/01"",
+    ""D"": ""11/14""
+}"
+New-ch-51_104,New-ch-51,China,"What form of accommodation is typically booked for family trips in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. equipped house
+B. hotel
+C. pension
+D. villa
+
+Answer:","{
+    ""A"": ""equipped house"",
+    ""B"": ""hotel"",
+    ""C"": ""pension"",
+    ""D"": ""villa""
+}"
+Na-ko-07_0,Na-ko-07,UK,"What type of meat is consumed most by people from the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. mutton
+C. tofu
+D. veal
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""mutton"",
+    ""C"": ""tofu"",
+    ""D"": ""veal""
+}"
+Ji-ko-33_12,Ji-ko-33,China,"Where do high school students in China usually go after dinner? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. academy
+B. canteen
+C. home
+D. swimming pool
+
+Answer:","{
+    ""A"": ""academy"",
+    ""B"": ""canteen"",
+    ""C"": ""home"",
+    ""D"": ""swimming pool""
+}"
+Na-ko-40_44,Na-ko-40,Iran,"How long (in days) does a funeral typically last in Iran? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 13
+B. 365
+C. 40
+D. 7
+
+Answer:","{
+    ""A"": ""13"",
+    ""B"": ""365"",
+    ""C"": ""40"",
+    ""D"": ""7""
+}"
+Na-ko-16_780,Na-ko-16,China,"Who is the most famous soccer player in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ali daei
+B. javier hernandez
+C. son heung-min
+D. wu lei
+
+Answer:","{
+    ""A"": ""ali daei"",
+    ""B"": ""javier hernandez"",
+    ""C"": ""son heung-min"",
+    ""D"": ""wu lei""
+}"
+Ki-pe-43_0,Ki-pe-43,UK,"What is the name of the popular bread in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baguette
+B. big bread
+C. hovis
+D. sangak
+
+Answer:","{
+    ""A"": ""baguette"",
+    ""B"": ""big bread"",
+    ""C"": ""hovis"",
+    ""D"": ""sangak""
+}"
+New-en-05_522,New-en-05,Iran,"Which food is a cost-effective and quick meal option in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans on toast
+B. fried egg
+C. instant noodles
+D. tacos
+
+Answer:","{
+    ""A"": ""beans on toast"",
+    ""B"": ""fried egg"",
+    ""C"": ""instant noodles"",
+    ""D"": ""tacos""
+}"
+Ne-ar-31_2860,Ne-ar-31,Iran,"What is the most famous dish in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. fish & chips
+C. ghormeh sabzi
+D. tacos
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""fish & chips"",
+    ""C"": ""ghormeh sabzi"",
+    ""D"": ""tacos""
+}"
+New-en-18_189,New-en-18,Iran,"What do fans bring with them when attending a live game in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. hand clapper
+C. sign
+D. water bottle
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""hand clapper"",
+    ""C"": ""sign"",
+    ""D"": ""water bottle""
+}"
+New-gr-89_0,New-gr-89,UK,"What drink is usually offered at weddings in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. champagne
+B. coffee
+C. soft drinks
+D. tea
+
+Answer:","{
+    ""A"": ""champagne"",
+    ""B"": ""coffee"",
+    ""C"": ""soft drinks"",
+    ""D"": ""tea""
+}"
+Kik-in-01_35,Kik-in-01,US,"What national holiday has the longest duration in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Xmas
+B. eid al-fitr
+C. lunar new year
+D. novruz
+
+Answer:","{
+    ""A"": ""Xmas"",
+    ""B"": ""eid al-fitr"",
+    ""C"": ""lunar new year"",
+    ""D"": ""novruz""
+}"
+Th-en-39_0,Th-en-39,UK,"What is a popular family game in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mexican bingo
+B. monopoly
+C. parcheesi
+D. yutnori
+
+Answer:","{
+    ""A"": ""mexican bingo"",
+    ""B"": ""monopoly"",
+    ""C"": ""parcheesi"",
+    ""D"": ""yutnori""
+}"
+An-ar-08_30,An-ar-08,China,"How many hours a day do students in China usually spend at high school? (Provide Arabic numerals in integers (0~24), without any decimal points.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 5
+B. 6
+C. 7
+D. 9
+
+Answer:","{
+    ""A"": ""5"",
+    ""B"": ""6"",
+    ""C"": ""7"",
+    ""D"": ""9""
+}"
+Jod-ch-61_99,Jod-ch-61,Iran,"Which occupation is most preferred among females in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clerical work, secretarial work
+B. flight attendant
+C. housekeeping
+D. sewing
+
+Answer:","{
+    ""A"": ""clerical work, secretarial work"",
+    ""B"": ""flight attendant"",
+    ""C"": ""housekeeping"",
+    ""D"": ""sewing""
+}"
+New-in-01_322,New-in-01,Iran,"Which coffee shop brand is the most popular in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee island
+B. costa
+C. lamiz
+D. starbucks
+
+Answer:","{
+    ""A"": ""coffee island"",
+    ""B"": ""costa"",
+    ""C"": ""lamiz"",
+    ""D"": ""starbucks""
+}"
+An-ar-36_0,An-ar-36,UK,"What is the most popular sport team in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. esteghlal
+B. manchester united
+C. mca
+D. real madrid
+
+Answer:","{
+    ""A"": ""esteghlal"",
+    ""B"": ""manchester united"",
+    ""C"": ""mca"",
+    ""D"": ""real madrid""
+}"
+Gu-ch-15_60,Gu-ch-15,China,"What sports do male students in university like to play the most in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. basketball
+C. cricket
+D. rugby
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""basketball"",
+    ""C"": ""cricket"",
+    ""D"": ""rugby""
+}"
+New-ch-64_32,New-ch-64,China,"How many hours of classes do university students typically have per week in China? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 18
+C. 20
+D. 30
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""18"",
+    ""C"": ""20"",
+    ""D"": ""30""
+}"
+Th-en-24_364,Th-en-24,US,"What region in the US is a major hub for tech workers and start ups? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baku
+B. jakarta
+C. london
+D. silicon valley
+
+Answer:","{
+    ""A"": ""baku"",
+    ""B"": ""jakarta"",
+    ""C"": ""london"",
+    ""D"": ""silicon valley""
+}"
+Kik-in-01_256,Kik-in-01,Iran,"What national holiday has the longest duration in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chuseok
+B. durga puja
+C. easter
+D. iranian new year holidays
+
+Answer:","{
+    ""A"": ""chuseok"",
+    ""B"": ""durga puja"",
+    ""C"": ""easter"",
+    ""D"": ""iranian new year holidays""
+}"
+Ne-ar-31_286,Ne-ar-31,US,"What is the most famous dish in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. fish & chips
+C. hamburger
+D. kimchi
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""fish & chips"",
+    ""C"": ""hamburger"",
+    ""D"": ""kimchi""
+}"
+Ki-pe-39_227,Ki-pe-39,Iran,"What food is usually prepared for a family picnic in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breaded fillets
+B. fruit
+C. kebab
+D. kimbap
+
+Answer:","{
+    ""A"": ""breaded fillets"",
+    ""B"": ""fruit"",
+    ""C"": ""kebab"",
+    ""D"": ""kimbap""
+}"
+Th-en-37_20,Th-en-37,US,"At what age do children typically become independent from their parents in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 16
+B. 18
+C. 25
+D. 28
+
+Answer:","{
+    ""A"": ""16"",
+    ""B"": ""18"",
+    ""C"": ""25"",
+    ""D"": ""28""
+}"
+New-su-21_95,New-su-21,Iran,"What are the common activities that seniors usually do in parks in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. changgi
+B. domino
+C. kite flying
+D. walking
+
+Answer:","{
+    ""A"": ""changgi"",
+    ""B"": ""domino"",
+    ""C"": ""kite flying"",
+    ""D"": ""walking""
+}"
+New-ch-72_65,New-ch-72,Iran,"Which major is considered most conducive to employment in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business
+B. culinary arts
+C. engineering
+D. mathematics
+
+Answer:","{
+    ""A"": ""business"",
+    ""B"": ""culinary arts"",
+    ""C"": ""engineering"",
+    ""D"": ""mathematics""
+}"
+Ni-en-13_0,Ni-en-13,UK,"At what age do most people in the UK graduate from university? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 21
+B. 24
+C. 25
+D. 30
+
+Answer:","{
+    ""A"": ""21"",
+    ""B"": ""24"",
+    ""C"": ""25"",
+    ""D"": ""30""
+}"
+New-en-50_308,New-en-50,Iran,"What is the most common family name in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lee
+B. mohammadi
+C. papadopoulos
+D. smith
+
+Answer:","{
+    ""A"": ""lee"",
+    ""B"": ""mohammadi"",
+    ""C"": ""papadopoulos"",
+    ""D"": ""smith""
+}"
+New-su-77_5,New-su-77,Iran,"What is usually given to the children during Eid in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothes
+B. money
+C. not-applicable
+D. soccer ball
+
+Answer:","{
+    ""A"": ""clothes"",
+    ""B"": ""money"",
+    ""C"": ""not-applicable"",
+    ""D"": ""soccer ball""
+}"
+New-pe-06_280,New-pe-06,China,"What is the most popular stew in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beef
+B. braised pork with vermicelli
+C. ghormeh sabzi
+D. kimchi-jjigae
+
+Answer:","{
+    ""A"": ""beef"",
+    ""B"": ""braised pork with vermicelli"",
+    ""C"": ""ghormeh sabzi"",
+    ""D"": ""kimchi-jjigae""
+}"
+New-am-77_0,New-am-77,UK,"What is the most famous religious holiday in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ashura
+B. christmas
+C. eid ul-fitr
+D. the day of buddha's coming
+
+Answer:","{
+    ""A"": ""ashura"",
+    ""B"": ""christmas"",
+    ""C"": ""eid ul-fitr"",
+    ""D"": ""the day of buddha's coming""
+}"
+New-ha-07_770,New-ha-07,China,"What food originated from China and can be found all over the world? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. dumplings
+C. fried rice
+D. tacos
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""dumplings"",
+    ""C"": ""fried rice"",
+    ""D"": ""tacos""
+}"
+New-am-60_34,New-am-60,Iran,"Which animal is typically used for transportation in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. camel
+C. donkey
+D. not-applicable
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""camel"",
+    ""C"": ""donkey"",
+    ""D"": ""not-applicable""
+}"
+New-as-76_169,New-as-76,Iran,"What traditional games do families play during traditional holidays in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. congklak
+B. dodgeball
+C. monopoly
+D. yutnori
+
+Answer:","{
+    ""A"": ""congklak"",
+    ""B"": ""dodgeball"",
+    ""C"": ""monopoly"",
+    ""D"": ""yutnori""
+}"
+Ne-ar-37_0,Ne-ar-37,UK,"Which fruit do people usually offer tourists/visitors from abroad in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. snake fruit
+C. strawberries
+D. watermelon
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""snake fruit"",
+    ""C"": ""strawberries"",
+    ""D"": ""watermelon""
+}"
+New-ch-04_115,New-ch-04,China,"What kinds of food do people usually eat for late-night snacks in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. chips
+C. skewers
+D. sweet indonesian pancake
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""chips"",
+    ""C"": ""skewers"",
+    ""D"": ""sweet indonesian pancake""
+}"
+Sa-en-13_453,Sa-en-13,China,"What is the food that is most divisive (either love or hate) in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. durian
+C. marmite
+D. omelette with onion
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""durian"",
+    ""C"": ""marmite"",
+    ""D"": ""omelette with onion""
+}"
+New-spme-68_115,New-spme-68,Iran,"What is the most popular beverage among children in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bubble tea
+B. juice
+C. pororo tropical fruits flavor drink
+D. teh botol
+
+Answer:","{
+    ""A"": ""bubble tea"",
+    ""B"": ""juice"",
+    ""C"": ""pororo tropical fruits flavor drink"",
+    ""D"": ""teh botol""
+}"
+Sa-en-1_111,Sa-en-1,China,"What is China's most popular fast food chain? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. burger king
+B. goody's
+C. kentucky fried chicken
+D. lotteria
+
+Answer:","{
+    ""A"": ""burger king"",
+    ""B"": ""goody's"",
+    ""C"": ""kentucky fried chicken"",
+    ""D"": ""lotteria""
+}"
+Jod-ch-01_60,Jod-ch-01,China,"What eating utensils do people commonly used in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chopsticks
+B. fork
+C. knife
+D. spoon
+
+Answer:","{
+    ""A"": ""chopsticks"",
+    ""B"": ""fork"",
+    ""C"": ""knife"",
+    ""D"": ""spoon""
+}"
+New-pe-11_312,New-pe-11,China,"What is the most common spice/herb used in dishes from China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cumin
+B. garlic
+C. salt
+D. turmeric
+
+Answer:","{
+    ""A"": ""cumin"",
+    ""B"": ""garlic"",
+    ""C"": ""salt"",
+    ""D"": ""turmeric""
+}"
+Ji-ko-42_96,Ji-ko-42,China,"What are the required subjects in China's university entrance exam? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. culinary arts
+B. history
+C. korean language
+D. mathematics
+
+Answer:","{
+    ""A"": ""culinary arts"",
+    ""B"": ""history"",
+    ""C"": ""korean language"",
+    ""D"": ""mathematics""
+}"
+Ni-en-02_146,Ni-en-02,Iran,"What time do secondary students in Iran typically finish school each day? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 15:00
+B. 15:30
+C. 17:00
+D. 18:00
+
+Answer:","{
+    ""A"": ""15:00"",
+    ""B"": ""15:30"",
+    ""C"": ""17:00"",
+    ""D"": ""18:00""
+}"
+Jod-ch-16_0,Jod-ch-16,UK,"What is the biggest festival in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bihu
+B. glastonbury
+C. lunar new year
+D. nowruz
+
+Answer:","{
+    ""A"": ""bihu"",
+    ""B"": ""glastonbury"",
+    ""C"": ""lunar new year"",
+    ""D"": ""nowruz""
+}"
+Jod-ch-48_0,Jod-ch-48,UK,"What do people eat for lunch during the working days in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. rice and stew
+B. salad
+C. sandwich
+D. shiro
+
+Answer:","{
+    ""A"": ""rice and stew"",
+    ""B"": ""salad"",
+    ""C"": ""sandwich"",
+    ""D"": ""shiro""
+}"
+Jo-sp-31_0,Jo-sp-31,UK,"What time do high school students tend to leave school in the UK? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 14:00
+B. 15:30
+C. 16:00
+D. 18:00
+
+Answer:","{
+    ""A"": ""14:00"",
+    ""B"": ""15:30"",
+    ""C"": ""16:00"",
+    ""D"": ""18:00""
+}"
+Jod-ch-38_20,Jod-ch-38,US,"What sports do men like to watch the most in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. badminton
+C. cricket
+D. soccer
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""badminton"",
+    ""C"": ""cricket"",
+    ""D"": ""soccer""
+}"
+New-ch-75_0,New-ch-75,UK,"How long is each class period for secondary school students in the UK (minutes)?  (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 45
+B. 60
+C. 75
+D. 90
+
+Answer:","{
+    ""A"": ""45"",
+    ""B"": ""60"",
+    ""C"": ""75"",
+    ""D"": ""90""
+}"
+Ne-ar-44_40,Ne-ar-44,US,"What do people have with coffee in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuit
+B. doughnut
+C. milk
+D. popcorn qollo
+
+Answer:","{
+    ""A"": ""biscuit"",
+    ""B"": ""doughnut"",
+    ""C"": ""milk"",
+    ""D"": ""popcorn qollo""
+}"
+New-am-41_26,New-am-41,Iran,"In Iran, at which grade level do students take their first national-level examination? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 6
+B. bachelor's degree final year
+C. ninth grade
+D. year 5
+
+Answer:","{
+    ""A"": ""6"",
+    ""B"": ""bachelor's degree final year"",
+    ""C"": ""ninth grade"",
+    ""D"": ""year 5""
+}"
+Kik-in-11_516,Kik-in-11,Iran,"What is the most popular religious sites (temple, church, etc.) for tourism in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. axum zion
+B. basilica of guadalupe
+C. borobudur
+D. imam reza
+
+Answer:","{
+    ""A"": ""axum zion"",
+    ""B"": ""basilica of guadalupe"",
+    ""C"": ""borobudur"",
+    ""D"": ""imam reza""
+}"
+Jod-ch-01_145,Jod-ch-01,Iran,"What eating utensils do people commonly used in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. brass utensils
+B. chopsticks
+C. rice
+D. spoon
+
+Answer:","{
+    ""A"": ""brass utensils"",
+    ""B"": ""chopsticks"",
+    ""C"": ""rice"",
+    ""D"": ""spoon""
+}"
+Ta-pe-23_0,Ta-pe-23,UK,"Which daily exercise is popular among men in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. gym
+C. running
+D. walk
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""gym"",
+    ""C"": ""running"",
+    ""D"": ""walk""
+}"
+Ne-ar-39_120,Ne-ar-39,US,"What is the cheapest fast food in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. McDonald's
+B. doner kebab
+C. falafel
+D. karantika
+
+Answer:","{
+    ""A"": ""McDonald's"",
+    ""B"": ""doner kebab"",
+    ""C"": ""falafel"",
+    ""D"": ""karantika""
+}"
+Th-en-05_0,Th-en-05,UK,"What is the most popular women's sports team in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. england women's football team
+B. futsal
+C. heungkuk life
+D. olympiacos
+
+Answer:","{
+    ""A"": ""england women's football team"",
+    ""B"": ""futsal"",
+    ""C"": ""heungkuk life"",
+    ""D"": ""olympiacos""
+}"
+Jod-ch-58_0,Jod-ch-58,UK,"Which profession is the most respected in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doctor
+B. engineer
+C. firefighter
+D. teacher
+
+Answer:","{
+    ""A"": ""doctor"",
+    ""B"": ""engineer"",
+    ""C"": ""firefighter"",
+    ""D"": ""teacher""
+}"
+Ni-en-21_20,Ni-en-21,US,"From what age is an individual allowed to work in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 15
+B. 17
+C. 18
+D. 20
+
+Answer:","{
+    ""A"": ""15"",
+    ""B"": ""17"",
+    ""C"": ""18"",
+    ""D"": ""20""
+}"
+Al-en-06_0,Al-en-06,UK,"What is a common school cafeteria food in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. kimchi
+C. rice and beans
+D. tea
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""kimchi"",
+    ""C"": ""rice and beans"",
+    ""D"": ""tea""
+}"
+Ji-ko-27_15,Ji-ko-27,China,"What is the common gift you give when visiting elderly parents in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothes
+B. flowers
+C. health care products
+D. monk counter
+
+Answer:","{
+    ""A"": ""clothes"",
+    ""B"": ""flowers"",
+    ""C"": ""health care products"",
+    ""D"": ""monk counter""
+}"
+Ki-pe-51_1,Ki-pe-51,US,"What time of day are government offices closed in the US? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 14:00
+B. 16:00
+C. 17:00
+D. 18:00
+
+Answer:","{
+    ""A"": ""14:00"",
+    ""B"": ""16:00"",
+    ""C"": ""17:00"",
+    ""D"": ""18:00""
+}"
+Ta-pe-25_22,Ta-pe-25,China,"What is the most famous rivalry in a national sports league in China? (e.g., ___ vs ___) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beijing guoan vs shanghai shenhua
+B. ibm vs microsoft
+C. persib versus persija
+D. real madrid against fcb
+
+Answer:","{
+    ""A"": ""beijing guoan vs shanghai shenhua"",
+    ""B"": ""ibm vs microsoft"",
+    ""C"": ""persib versus persija"",
+    ""D"": ""real madrid against fcb""
+}"
+New-as-15_39,New-as-15,Iran,"What drink is commonly consumed in Iran when the weather is hot? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beer
+B. lemonade
+C. milkshake
+D. tea
+
+Answer:","{
+    ""A"": ""beer"",
+    ""B"": ""lemonade"",
+    ""C"": ""milkshake"",
+    ""D"": ""tea""
+}"
+Gu-ch-33_0,Gu-ch-33,US,"From which age do students start learning their second language in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10
+B. 13
+C. 18
+D. 5
+
+Answer:","{
+    ""A"": ""10"",
+    ""B"": ""13"",
+    ""C"": ""18"",
+    ""D"": ""5""
+}"
+New-en-50_0,New-en-50,UK,"What is the most common family name in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lee
+B. li
+C. papadopoulos
+D. smith
+
+Answer:","{
+    ""A"": ""lee"",
+    ""B"": ""li"",
+    ""C"": ""papadopoulos"",
+    ""D"": ""smith""
+}"
+Jod-ch-37_0,Jod-ch-37,UK,"What sports do women like to watch the most in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baseball
+B. basketball
+C. soccer
+D. volleyball
+
+Answer:","{
+    ""A"": ""baseball"",
+    ""B"": ""basketball"",
+    ""C"": ""soccer"",
+    ""D"": ""volleyball""
+}"
+New-in-01_0,New-in-01,UK,"Which coffee shop brand is the most popular in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Dunkin' Donuts
+B. coffee island
+C. costa
+D. yirga chefie
+
+Answer:","{
+    ""A"": ""Dunkin' Donuts"",
+    ""B"": ""coffee island"",
+    ""C"": ""costa"",
+    ""D"": ""yirga chefie""
+}"
+Ne-ar-39_489,Ne-ar-39,China,"What is the cheapest fast food in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doner kebab
+B. falafel
+C. mcdonalds
+D. steamed bun
+
+Answer:","{
+    ""A"": ""doner kebab"",
+    ""B"": ""falafel"",
+    ""C"": ""mcdonalds"",
+    ""D"": ""steamed bun""
+}"
+New-en-49_56,New-en-49,US,"What is the name of the most famous family in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. derbez
+B. father
+C. the royal family
+D. trump
+
+Answer:","{
+    ""A"": ""derbez"",
+    ""B"": ""father"",
+    ""C"": ""the royal family"",
+    ""D"": ""trump""
+}"
+Kik-in-02_5,Kik-in-02,China,"What are the common activities people from China do to celebrate Independence day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbeque
+B. flag hoisting
+C. holding a competition
+D. travel
+
+Answer:","{
+    ""A"": ""barbeque"",
+    ""B"": ""flag hoisting"",
+    ""C"": ""holding a competition"",
+    ""D"": ""travel""
+}"
+Ta-pe-23_157,Ta-pe-23,China,"Which daily exercise is popular among men in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. play football
+B. running
+C. soccer
+D. walk
+
+Answer:","{
+    ""A"": ""play football"",
+    ""B"": ""running"",
+    ""C"": ""soccer"",
+    ""D"": ""walk""
+}"
+Nu-in-40_286,Nu-in-40,US,"Which city is the main destination for job seekers in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. NY
+B. algiers
+C. london
+D. seoul
+
+Answer:","{
+    ""A"": ""NY"",
+    ""B"": ""algiers"",
+    ""C"": ""london"",
+    ""D"": ""seoul""
+}"
+Na-ko-40_29,Na-ko-40,China,"How long (in days) does a funeral typically last in China? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 2
+C. 365
+D. 7
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""2"",
+    ""C"": ""365"",
+    ""D"": ""7""
+}"
+New-pe-02_0,New-pe-02,UK,"What is the most famous edible souvenir for tourists in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. paella
+C. rock candy
+D. souvlaki
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""paella"",
+    ""C"": ""rock candy"",
+    ""D"": ""souvlaki""
+}"
+New-as-80_44,New-as-80,Iran,"What type of clothing do people from Iran wear during traditional festivals? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. as usual
+B. casual clothes
+C. formal
+D. richly embroidered fabric
+
+Answer:","{
+    ""A"": ""as usual"",
+    ""B"": ""casual clothes"",
+    ""C"": ""formal"",
+    ""D"": ""richly embroidered fabric""
+}"
+Jo-sp-02_96,Jo-sp-02,China,"What is the most popular sport played without a ball in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. chinese chess
+C. running
+D. wrestling
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""chinese chess"",
+    ""C"": ""running"",
+    ""D"": ""wrestling""
+}"
+Ji-ko-19_1,Ji-ko-19,US,"What is the US's most commonly given flower on Parents' Day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. carnation
+B. not-applicable
+C. rose
+D. tulip
+
+Answer:","{
+    ""A"": ""carnation"",
+    ""B"": ""not-applicable"",
+    ""C"": ""rose"",
+    ""D"": ""tulip""
+}"
+New-as-15_4,New-as-15,US,"What drink is commonly consumed in the US when the weather is hot? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coca cola
+B. juice
+C. lemonade
+D. milkshake
+
+Answer:","{
+    ""A"": ""coca cola"",
+    ""B"": ""juice"",
+    ""C"": ""lemonade"",
+    ""D"": ""milkshake""
+}"
+New-am-04_56,New-am-04,US,"What is the most popular dipping sauce in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abc chili sauce
+B. mint chutney
+C. ranch
+D. tzatziki
+
+Answer:","{
+    ""A"": ""abc chili sauce"",
+    ""B"": ""mint chutney"",
+    ""C"": ""ranch"",
+    ""D"": ""tzatziki""
+}"
+New-as-01_1037,New-as-01,Iran,"What is the main agricultural product produced in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corn
+B. potato
+C. saffron
+D. tef
+
+Answer:","{
+    ""A"": ""corn"",
+    ""B"": ""potato"",
+    ""C"": ""saffron"",
+    ""D"": ""tef""
+}"
+Na-ko-24_20,Na-ko-24,US,"What is the most commonly eaten food in sports stadiums while watching games in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Pies
+B. chips
+C. fried chicken
+D. hotdogs
+
+Answer:","{
+    ""A"": ""Pies"",
+    ""B"": ""chips"",
+    ""C"": ""fried chicken"",
+    ""D"": ""hotdogs""
+}"
+New-ch-82_70,New-ch-82,US,"At what time do weddings typically start in the US? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10:00
+B. 13:00
+C. 18:00
+D. 19:00
+
+Answer:","{
+    ""A"": ""10:00"",
+    ""B"": ""13:00"",
+    ""C"": ""18:00"",
+    ""D"": ""19:00""
+}"
+Na-ko-39_84,Na-ko-39,Iran,"What is typically given as a congratulatory gesture when attending a friend's wedding in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gift from the wedding list
+B. money
+C. throw rice
+D. xorai
+
+Answer:","{
+    ""A"": ""gift from the wedding list"",
+    ""B"": ""money"",
+    ""C"": ""throw rice"",
+    ""D"": ""xorai""
+}"
+New-as-02_10,New-as-02,US,"What is the most popular wheat-based food item in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. couscous
+C. millet pancake
+D. tortillas
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""couscous"",
+    ""C"": ""millet pancake"",
+    ""D"": ""tortillas""
+}"
+Ji-ko-37_25,Ji-ko-37,China,"What type of clothing do middle and high school students wear to school in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baggy jeans
+B. school uniform
+C. shirt
+D. tie
+
+Answer:","{
+    ""A"": ""baggy jeans"",
+    ""B"": ""school uniform"",
+    ""C"": ""shirt"",
+    ""D"": ""tie""
+}"
+Ji-ko-24_75,Ji-ko-24,China,"What is the most preferred recreational facility among children in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ednamall
+B. public parks
+C. swimming pool
+D. swing
+
+Answer:","{
+    ""A"": ""ednamall"",
+    ""B"": ""public parks"",
+    ""C"": ""swimming pool"",
+    ""D"": ""swing""
+}"
+New-ch-83_3822,New-ch-83,Iran,"Which city in Iran hosts festivals the most? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. athens
+B. baku
+C. seoul
+D. tehran
+
+Answer:","{
+    ""A"": ""athens"",
+    ""B"": ""baku"",
+    ""C"": ""seoul"",
+    ""D"": ""tehran""
+}"
+New-as-07_0,New-as-07,UK,"What is the most popular dish cooked with fish in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ceviche
+B. cod pil-pil style
+C. fish & chips
+D. grilled mackerel
+
+Answer:","{
+    ""A"": ""ceviche"",
+    ""B"": ""cod pil-pil style"",
+    ""C"": ""fish & chips"",
+    ""D"": ""grilled mackerel""
+}"
+New-en-07_22,New-en-07,China,"What are the most popular cooking shows in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Master chef, MasterChef
+B. a bite of china
+C. akushi da rufi
+D. chopped
+
+Answer:","{
+    ""A"": ""Master chef, MasterChef"",
+    ""B"": ""a bite of china"",
+    ""C"": ""akushi da rufi"",
+    ""D"": ""chopped""
+}"
+Ni-en-11_22,Ni-en-11,Iran,"In Iran, how long (in years) does a Master's degree typically take to complete? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 17
+B. 2
+C. 5
+D. 8
+
+Answer:","{
+    ""A"": ""17"",
+    ""B"": ""2"",
+    ""C"": ""5"",
+    ""D"": ""8""
+}"
+Th-en-45_35,Th-en-45,US,"What is the most popular weekday evening family activity in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cooking
+B. go grocery shopping
+C. having tea together
+D. television
+
+Answer:","{
+    ""A"": ""cooking"",
+    ""B"": ""go grocery shopping"",
+    ""C"": ""having tea together"",
+    ""D"": ""television""
+}"
+New-gr-58_109,New-gr-58,Iran,"Which job is considered underpaid in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. care workers
+B. labor
+C. software engineer
+D. teachers
+
+Answer:","{
+    ""A"": ""care workers"",
+    ""B"": ""labor"",
+    ""C"": ""software engineer"",
+    ""D"": ""teachers""
+}"
+New-ko-01_0,New-ko-01,UK,"What is the most popular children's animation that is commonly watched by kids in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. boy general
+B. peppa pig
+C. pleasant goat and big big wolf
+D. upin ipin
+
+Answer:","{
+    ""A"": ""boy general"",
+    ""B"": ""peppa pig"",
+    ""C"": ""pleasant goat and big big wolf"",
+    ""D"": ""upin ipin""
+}"
+Ca-sp-06_2,Ca-sp-06,US,"Which is the most important meal of the day to people from the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breakfast
+B. gym workout
+C. injera
+D. lunch
+
+Answer:","{
+    ""A"": ""breakfast"",
+    ""B"": ""gym workout"",
+    ""C"": ""injera"",
+    ""D"": ""lunch""
+}"
+New-az-60_33,New-az-60,China,"In China, who takes care of kids when both parents are working? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. housemaid
+B. kindergarten
+C. paternal grandparents
+D. robotic caregiver
+
+Answer:","{
+    ""A"": ""housemaid"",
+    ""B"": ""kindergarten"",
+    ""C"": ""paternal grandparents"",
+    ""D"": ""robotic caregiver""
+}"
+New-pe-11_692,New-pe-11,Iran,"What is the most common spice/herb used in dishes from Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. garlic
+B. oregano
+C. salt
+D. turmeric
+
+Answer:","{
+    ""A"": ""garlic"",
+    ""B"": ""oregano"",
+    ""C"": ""salt"",
+    ""D"": ""turmeric""
+}"
+Ni-en-17_0,Ni-en-17,UK,"How many hours a week does a full-time worker in the UK typically work? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 40
+B. 42
+C. 52
+D. 8
+
+Answer:","{
+    ""A"": ""40"",
+    ""B"": ""42"",
+    ""C"": ""52"",
+    ""D"": ""8""
+}"
+New-ch-71_4,New-ch-71,US,"What is the average class size in high schools in the US? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 15
+B. 25
+C. 40
+D. 60
+
+Answer:","{
+    ""A"": ""15"",
+    ""B"": ""25"",
+    ""C"": ""40"",
+    ""D"": ""60""
+}"
+New-ch-51_179,New-ch-51,Iran,"What form of accommodation is typically booked for family trips in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. caravan
+B. equipped house
+C. hotel
+D. pension
+
+Answer:","{
+    ""A"": ""caravan"",
+    ""B"": ""equipped house"",
+    ""C"": ""hotel"",
+    ""D"": ""pension""
+}"
+Ta-pe-25_26,Ta-pe-25,Iran,"What is the most famous rivalry in a national sports league in Iran? (e.g., ___ vs ___) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. april 25 sports team vs. amnokgang sports team
+B. esteghlal vs persepolis
+C. ibm vs microsoft
+D. persib versus persija
+
+Answer:","{
+    ""A"": ""april 25 sports team vs. amnokgang sports team"",
+    ""B"": ""esteghlal vs persepolis"",
+    ""C"": ""ibm vs microsoft"",
+    ""D"": ""persib versus persija""
+}"
+Gu-ch-08_0,Gu-ch-08,UK,"What is the most popular sports among children in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baseball
+B. basketball
+C. ludo
+D. soccer
+
+Answer:","{
+    ""A"": ""baseball"",
+    ""B"": ""basketball"",
+    ""C"": ""ludo"",
+    ""D"": ""soccer""
+}"
+Jo-sp-14_3,Jo-sp-14,US,"What is the most popular mental sport in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chess
+B. ethiopian dama
+C. origami
+D. yoga
+
+Answer:","{
+    ""A"": ""chess"",
+    ""B"": ""ethiopian dama"",
+    ""C"": ""origami"",
+    ""D"": ""yoga""
+}"
+New-as-05_0,New-as-05,UK,"What is the most typical drink offered to guests when they visit households in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coca cola
+B. juice
+C. tea
+D. water
+
+Answer:","{
+    ""A"": ""coca cola"",
+    ""B"": ""juice"",
+    ""C"": ""tea"",
+    ""D"": ""water""
+}"
+New-ch-23_35,New-ch-23,China,"Who is the most famous table tennis player in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hyun jung-hwa
+B. li bun-hui
+C. ma long
+D. monalisa boruwa mehta
+
+Answer:","{
+    ""A"": ""hyun jung-hwa"",
+    ""B"": ""li bun-hui"",
+    ""C"": ""ma long"",
+    ""D"": ""monalisa boruwa mehta""
+}"
+Ji-ko-38_28,Ji-ko-38,Iran,"Which major is considered the most difficult to gain admission to in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. engineering
+B. mathematics
+C. medical
+D. medicine
+
+Answer:","{
+    ""A"": ""engineering"",
+    ""B"": ""mathematics"",
+    ""C"": ""medical"",
+    ""D"": ""medicine""
+}"
+Th-en-35_28,Th-en-35,China,"Which one of the daily meals is commonly shared with family members in China? (e.g., breakfast, lunch, dinner) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dinner
+B. lunch
+C. snacks
+D. tea time
+
+Answer:","{
+    ""A"": ""dinner"",
+    ""B"": ""lunch"",
+    ""C"": ""snacks"",
+    ""D"": ""tea time""
+}"
+New-ch-66_47,New-ch-66,Iran,"What is the typical tuition fee per semester for public high schools in Iran?  (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1000
+B. 1000000
+C. 2000
+D. 2749
+
+Answer:","{
+    ""A"": ""1000"",
+    ""B"": ""1000000"",
+    ""C"": ""2000"",
+    ""D"": ""2749""
+}"
+Jod-ch-09_110,Jod-ch-09,Iran,"What time do people usually have dinner in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 08:00
+B. 18:00
+C. 18:30
+D. 20:00
+
+Answer:","{
+    ""A"": ""08:00"",
+    ""B"": ""18:00"",
+    ""C"": ""18:30"",
+    ""D"": ""20:00""
+}"
+Ji-ko-29_84,Ji-ko-29,Iran,"Which age's birthday is celebrated the most grandly in Iran's society? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 17
+C. 30
+D. 60th birthday
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""17"",
+    ""C"": ""30"",
+    ""D"": ""60th birthday""
+}"
+Al-en-37_75,Al-en-37,China,"What food is associated with Christmas in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. gingerbread
+C. roasted pork leg
+D. turkey
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""gingerbread"",
+    ""C"": ""roasted pork leg"",
+    ""D"": ""turkey""
+}"
+Ji-ko-37_0,Ji-ko-37,UK,"What type of clothing do middle and high school students wear to school in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apron
+B. baggy jeans
+C. shalwar
+D. uniform
+
+Answer:","{
+    ""A"": ""apron"",
+    ""B"": ""baggy jeans"",
+    ""C"": ""shalwar"",
+    ""D"": ""uniform""
+}"
+Na-ko-26_252,Na-ko-26,US,"What are the popular sports among the middle-aged population in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. badminton
+C. soccer
+D. square dance
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""badminton"",
+    ""C"": ""soccer"",
+    ""D"": ""square dance""
+}"
+New-gr-29_0,New-gr-29,UK,"Which international sporting event is the most popular in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. olympics
+C. super bowl
+D. tour de france
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""olympics"",
+    ""C"": ""super bowl"",
+    ""D"": ""tour de france""
+}"
+Jod-ch-38_0,Jod-ch-38,UK,"What sports do men like to watch the most in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. badminton
+C. baseball
+D. soccer
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""badminton"",
+    ""C"": ""baseball"",
+    ""D"": ""soccer""
+}"
+New-en-90_684,New-en-90,China,"What is the most famous hotel brand in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. espinas palace
+B. home inns
+C. koryo hotel
+D. the shilla
+
+Answer:","{
+    ""A"": ""espinas palace"",
+    ""B"": ""home inns"",
+    ""C"": ""koryo hotel"",
+    ""D"": ""the shilla""
+}"
+New-in-62_31,New-in-62,Iran,"What university in Iran is popular because of its engineering major? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kaist
+B. mit
+C. sharif university of technology
+D. the british museum
+
+Answer:","{
+    ""A"": ""kaist"",
+    ""B"": ""mit"",
+    ""C"": ""sharif university of technology"",
+    ""D"": ""the british museum""
+}"
+Jo-sp-32_110,Jo-sp-32,Iran,"What sport do elementary school students tend to practice at school in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. dodgeball
+C. football
+D. running
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""dodgeball"",
+    ""C"": ""football"",
+    ""D"": ""running""
+}"
+New-su-15_112,New-su-15,US,"What is the most popular traditional non-alcoholic drink in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bajigur
+B. coffee
+C. keneto
+D. sweet rice drink
+
+Answer:","{
+    ""A"": ""bajigur"",
+    ""B"": ""coffee"",
+    ""C"": ""keneto"",
+    ""D"": ""sweet rice drink""
+}"
+Ne-ar-25_0,Ne-ar-25,US,"What is the industry that pays the best in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. agriculture
+B. lawyer
+C. medical
+D. oil and natural gas
+
+Answer:","{
+    ""A"": ""agriculture"",
+    ""B"": ""lawyer"",
+    ""C"": ""medical"",
+    ""D"": ""oil and natural gas""
+}"
+Ni-en-20_56,Ni-en-20,US,"At what age do most people start working in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 21
+C. 25
+D. 27
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""21"",
+    ""C"": ""25"",
+    ""D"": ""27""
+}"
+Na-ko-04_40,Na-ko-04,China,"What is the preferred hangover cure food for people from China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bacon sandwich
+B. gukbap
+C. porridge
+D. shiro fitfit
+
+Answer:","{
+    ""A"": ""bacon sandwich"",
+    ""B"": ""gukbap"",
+    ""C"": ""porridge"",
+    ""D"": ""shiro fitfit""
+}"
+Ne-ar-38_443,Ne-ar-38,China,"Which food do people usually offer as charity in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. canned soup
+B. couscous
+C. instant noodles
+D. rice
+
+Answer:","{
+    ""A"": ""canned soup"",
+    ""B"": ""couscous"",
+    ""C"": ""instant noodles"",
+    ""D"": ""rice""
+}"
+New-as-80_0,New-as-80,US,"What type of clothing do people from the US wear during traditional festivals? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. formal
+B. hanbok
+C. kebaya
+D. sador mekhela
+
+Answer:","{
+    ""A"": ""formal"",
+    ""B"": ""hanbok"",
+    ""C"": ""kebaya"",
+    ""D"": ""sador mekhela""
+}"
+Kik-in-07_0,Kik-in-07,UK,"What is usually shared to the children during (Lunar) New Year in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. not-applicable
+B. pocket money
+C. red packet
+D. ski passes
+
+Answer:","{
+    ""A"": ""not-applicable"",
+    ""B"": ""pocket money"",
+    ""C"": ""red packet"",
+    ""D"": ""ski passes""
+}"
+Ki-pe-30_0,Ki-pe-30,UK,"What days of the week are schools closed in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. friday
+B. full moon
+C. saturday
+D. thursday
+
+Answer:","{
+    ""A"": ""friday"",
+    ""B"": ""full moon"",
+    ""C"": ""saturday"",
+    ""D"": ""thursday""
+}"
+New-pe-16_0,New-pe-16,UK,"What is the most famous traditional sport in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. american football
+B. ping pong
+C. silat
+D. soccer
+
+Answer:","{
+    ""A"": ""american football"",
+    ""B"": ""ping pong"",
+    ""C"": ""silat"",
+    ""D"": ""soccer""
+}"
+Ta-pe-29_19,Ta-pe-29,China,"Which professional sport is the highest paying in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. baseball
+C. cheese rolling
+D. soccer
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""baseball"",
+    ""C"": ""cheese rolling"",
+    ""D"": ""soccer""
+}"
+Th-en-09_10,Th-en-09,US,"What is the most popular tournament in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. NFL Playoffs
+B. mexican soccer league
+C. ping pong
+D. race
+
+Answer:","{
+    ""A"": ""NFL Playoffs"",
+    ""B"": ""mexican soccer league"",
+    ""C"": ""ping pong"",
+    ""D"": ""race""
+}"
+New-ch-82_140,New-ch-82,China,"At what time do weddings typically start in China? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 08:00
+B. 10:00
+C. 12:00
+D. 18:00
+
+Answer:","{
+    ""A"": ""08:00"",
+    ""B"": ""10:00"",
+    ""C"": ""12:00"",
+    ""D"": ""18:00""
+}"
+Ca-sp-09_180,Ca-sp-09,China,"What do people from China usually eat for dessert? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. fruit
+C. ice cream
+D. rice pudding
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""fruit"",
+    ""C"": ""ice cream"",
+    ""D"": ""rice pudding""
+}"
+Th-en-12_660,Th-en-12,China,"In which sport has China been most successful in international competitions? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ping pong
+B. race
+C. soccer
+D. wrestling
+
+Answer:","{
+    ""A"": ""ping pong"",
+    ""B"": ""race"",
+    ""C"": ""soccer"",
+    ""D"": ""wrestling""
+}"
+Ni-en-06_16,Ni-en-06,China,"From what age do people need to attend compulsory education in China? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 5
+C. 6
+D. 8
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""5"",
+    ""C"": ""6"",
+    ""D"": ""8""
+}"
+Jo-sp-01_237,Jo-sp-01,Iran,"What is the second most popular sport in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. basketball
+D. volleyball
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""basketball"",
+    ""D"": ""volleyball""
+}"
+New-ch-08_110,New-ch-08,China,"What seasoning is indispensable in cooking in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black pepper
+B. chilli powder
+C. soy sauce
+D. turmeric
+
+Answer:","{
+    ""A"": ""black pepper"",
+    ""B"": ""chilli powder"",
+    ""C"": ""soy sauce"",
+    ""D"": ""turmeric""
+}"
+Ni-en-20_0,Ni-en-20,UK,"At what age do most people start working in the UK? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 22
+C. 25
+D. 27
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""22"",
+    ""C"": ""25"",
+    ""D"": ""27""
+}"
+Ni-en-03_3,Ni-en-03,US,"At what age do people in the US typically go to university? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 17
+B. 18
+C. 20
+D. 35
+
+Answer:","{
+    ""A"": ""17"",
+    ""B"": ""18"",
+    ""C"": ""20"",
+    ""D"": ""35""
+}"
+New-gr-05_301,New-gr-05,Iran,"What is the most popular grab-and-go breakfast option in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread cheese walnut
+B. cereal
+C. sandwich
+D. soy milk
+
+Answer:","{
+    ""A"": ""bread cheese walnut"",
+    ""B"": ""cereal"",
+    ""C"": ""sandwich"",
+    ""D"": ""soy milk""
+}"
+New-pe-83_84,New-pe-83,US,"What is the popular card game played during social gatherings in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. durak
+B. matgo
+C. poker
+D. sasaki
+
+Answer:","{
+    ""A"": ""durak"",
+    ""B"": ""matgo"",
+    ""C"": ""poker"",
+    ""D"": ""sasaki""
+}"
+Ca-sp-43_10,Ca-sp-43,US,"How long (in weeks) is the US's paternity leave for dads? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 2
+C. 52
+D. 6
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""2"",
+    ""C"": ""52"",
+    ""D"": ""6""
+}"
+New-en-47_10,New-en-47,US,"What can typically be found in the back garden of houses in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bird feeder
+B. garden
+C. grass
+D. hang-ari
+
+Answer:","{
+    ""A"": ""bird feeder"",
+    ""B"": ""garden"",
+    ""C"": ""grass"",
+    ""D"": ""hang-ari""
+}"
+Kik-in-45_56,Kik-in-45,US,"What sports field facilities are usually available at schools in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. football pitch
+C. soccer
+D. track and field
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""football pitch"",
+    ""C"": ""soccer"",
+    ""D"": ""track and field""
+}"
+Ne-ar-32_636,Ne-ar-32,Iran,"What do people usually have for breakfast in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. cereal
+C. chilaquiles
+D. coffee
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""cereal"",
+    ""C"": ""chilaquiles"",
+    ""D"": ""coffee""
+}"
+Th-en-39_56,Th-en-39,US,"What is a popular family game in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mexican bingo
+B. monopoly
+C. parcheesi
+D. yutnori
+
+Answer:","{
+    ""A"": ""mexican bingo"",
+    ""B"": ""monopoly"",
+    ""C"": ""parcheesi"",
+    ""D"": ""yutnori""
+}"
+Kik-in-31_0,Kik-in-31,US,"What is the most famous martial art sports in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. judo
+B. karate
+C. pencak silat
+D. wrestling
+
+Answer:","{
+    ""A"": ""judo"",
+    ""B"": ""karate"",
+    ""C"": ""pencak silat"",
+    ""D"": ""wrestling""
+}"
+New-en-02_20,New-en-02,US,"What is the most popular chip/crisp flavour in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbeque
+B. oregano
+C. paprika
+D. spicy
+
+Answer:","{
+    ""A"": ""barbeque"",
+    ""B"": ""oregano"",
+    ""C"": ""paprika"",
+    ""D"": ""spicy""
+}"
+New-ko-07_31,New-ko-07,Iran,"What is the customary symbol of condolence used at funerals in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black clothes
+B. not-applicable
+C. origami crane
+D. verbal condolence
+
+Answer:","{
+    ""A"": ""black clothes"",
+    ""B"": ""not-applicable"",
+    ""C"": ""origami crane"",
+    ""D"": ""verbal condolence""
+}"
+New-en-59_453,New-en-59,China,"Which country is the most popular destination for families from China to emigrate to? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. canada
+B. france
+C. germany
+D. russia
+
+Answer:","{
+    ""A"": ""canada"",
+    ""B"": ""france"",
+    ""C"": ""germany"",
+    ""D"": ""russia""
+}"
+Ki-pe-24_0,Ki-pe-24,UK,"What language is taught in schools in the UK besides English? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. french
+B. hindi
+C. japanese
+D. russian
+
+Answer:","{
+    ""A"": ""french"",
+    ""B"": ""hindi"",
+    ""C"": ""japanese"",
+    ""D"": ""russian""
+}"
+An-ar-36_1990,An-ar-36,Iran,"What is the most popular sport team in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. april 25 national defence sports club
+B. esteghlal
+C. mca
+D. real madrid
+
+Answer:","{
+    ""A"": ""april 25 national defence sports club"",
+    ""B"": ""esteghlal"",
+    ""C"": ""mca"",
+    ""D"": ""real madrid""
+}"
+New-su-75_32,New-su-75,Iran,"What type of vehicle do most families in Iran generally own? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. pride (car)
+B. sailing boat
+C. suv
+D. xenia
+
+Answer:","{
+    ""A"": ""pride (car)"",
+    ""B"": ""sailing boat"",
+    ""C"": ""suv"",
+    ""D"": ""xenia""
+}"
+New-in-03_1100,New-in-03,China,"What type of food from China is typically served in restaurants overseas? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. burgers
+B. couscous
+C. fried noodles
+D. tacos
+
+Answer:","{
+    ""A"": ""burgers"",
+    ""B"": ""couscous"",
+    ""C"": ""fried noodles"",
+    ""D"": ""tacos""
+}"
+New-gr-13_11,New-gr-13,China,"What is the most common morning drink in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate milk
+B. coffee
+C. soy milk
+D. tea
+
+Answer:","{
+    ""A"": ""chocolate milk"",
+    ""B"": ""coffee"",
+    ""C"": ""soy milk"",
+    ""D"": ""tea""
+}"
+Na-ko-16_0,Na-ko-16,UK,"Who is the most famous soccer player in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ali daei
+B. david beckham
+C. javier hernandez
+D. son heung-min
+
+Answer:","{
+    ""A"": ""ali daei"",
+    ""B"": ""david beckham"",
+    ""C"": ""javier hernandez"",
+    ""D"": ""son heung-min""
+}"
+New-su-15_0,New-su-15,UK,"What is the most popular traditional non-alcoholic drink in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bajigur
+B. keneto
+C. sweet rice drink
+D. tea
+
+Answer:","{
+    ""A"": ""bajigur"",
+    ""B"": ""keneto"",
+    ""C"": ""sweet rice drink"",
+    ""D"": ""tea""
+}"
+Na-ko-09_0,Na-ko-09,US,"What side dish is the most commonly served on a dining table in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chili sauce
+B. fried tempeh
+C. kimchi
+D. mashed potatoes
+
+Answer:","{
+    ""A"": ""chili sauce"",
+    ""B"": ""fried tempeh"",
+    ""C"": ""kimchi"",
+    ""D"": ""mashed potatoes""
+}"
+New-ko-03_0,New-ko-03,UK,"What is the most popular children's song in the UK that families sing together? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. balonku
+B. i have a round ball
+C. three bears
+D. twinkle twinkle little star
+
+Answer:","{
+    ""A"": ""balonku"",
+    ""B"": ""i have a round ball"",
+    ""C"": ""three bears"",
+    ""D"": ""twinkle twinkle little star""
+}"
+New-as-30_237,New-as-30,Iran,"What sport do women in Iran like to watch? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. cricket
+D. football
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""cricket"",
+    ""D"": ""football""
+}"
+Th-en-05_14,Th-en-05,China,"What is the most popular women's sports team in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. china women's national football team
+B. futsal
+C. heungkuk life
+D. olympiacos
+
+Answer:","{
+    ""A"": ""china women's national football team"",
+    ""B"": ""futsal"",
+    ""C"": ""heungkuk life"",
+    ""D"": ""olympiacos""
+}"
+New-gr-13_3,New-gr-13,US,"What is the most common morning drink in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate milk
+B. coffee
+C. millet or sorghum porridge
+D. water
+
+Answer:","{
+    ""A"": ""chocolate milk"",
+    ""B"": ""coffee"",
+    ""C"": ""millet or sorghum porridge"",
+    ""D"": ""water""
+}"
+Ne-ar-05_231,Ne-ar-05,China,"What is the most important national holiday in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 25th December
+B. lunar new year
+C. novruz
+D. october 28th
+
+Answer:","{
+    ""A"": ""25th December"",
+    ""B"": ""lunar new year"",
+    ""C"": ""novruz"",
+    ""D"": ""october 28th""
+}"
+Na-ko-24_384,Na-ko-24,Iran,"What is the most commonly eaten food in sports stadiums while watching games in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Pies
+B. crisps
+C. fried chicken
+D. fritters
+
+Answer:","{
+    ""A"": ""Pies"",
+    ""B"": ""crisps"",
+    ""C"": ""fried chicken"",
+    ""D"": ""fritters""
+}"
+Ca-sp-41_41,Ca-sp-41,Iran,"Where do the dependent elderly usually live in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. assisted living
+B. houses of prosperity
+C. nursing home
+D. rural area
+
+Answer:","{
+    ""A"": ""assisted living"",
+    ""B"": ""houses of prosperity"",
+    ""C"": ""nursing home"",
+    ""D"": ""rural area""
+}"
+Ji-ko-08_10,Ji-ko-08,China,"What is the maximum number of hours one can work per week in China? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 32
+B. 40
+C. 48
+D. 52
+
+Answer:","{
+    ""A"": ""32"",
+    ""B"": ""40"",
+    ""C"": ""48"",
+    ""D"": ""52""
+}"
+New-en-68_10,New-en-68,US,"What repercussions are there for bad behavior in schools in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cleaning
+B. detention
+C. notice to parents
+D. school transfer
+
+Answer:","{
+    ""A"": ""cleaning"",
+    ""B"": ""detention"",
+    ""C"": ""notice to parents"",
+    ""D"": ""school transfer""
+}"
+New-gr-06_217,New-gr-06,China,"What is the most popular food in China among young people? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doner kebab
+B. hot pot
+C. shiro wote
+D. tacos
+
+Answer:","{
+    ""A"": ""doner kebab"",
+    ""B"": ""hot pot"",
+    ""C"": ""shiro wote"",
+    ""D"": ""tacos""
+}"
+Ta-pe-13_20,Ta-pe-13,China,"In your parents' generation, what was the average number of members in their family in China? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 3
+B. 4
+C. 5
+D. 8
+
+Answer:","{
+    ""A"": ""3"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""8""
+}"
+Th-en-09_119,Th-en-09,Iran,"What is the most popular tournament in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. acropolis rally
+B. ping pong
+C. premier football league
+D. race
+
+Answer:","{
+    ""A"": ""acropolis rally"",
+    ""B"": ""ping pong"",
+    ""C"": ""premier football league"",
+    ""D"": ""race""
+}"
+Jod-ch-58_4,Jod-ch-58,US,"Which profession is the most respected in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. civil servant
+B. doctor
+C. medical
+D. medicine
+
+Answer:","{
+    ""A"": ""civil servant"",
+    ""B"": ""doctor"",
+    ""C"": ""medical"",
+    ""D"": ""medicine""
+}"
+New-su-58_1,New-su-58,US,"What animals are commonly used for agriculture in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buffalo
+B. cows
+C. ox
+D. sheep
+
+Answer:","{
+    ""A"": ""buffalo"",
+    ""B"": ""cows"",
+    ""C"": ""ox"",
+    ""D"": ""sheep""
+}"
+New-ch-73_5,New-ch-73,China,"What type of clubs are most popular among university students in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. band
+B. debate
+C. political factions
+D. street dance club
+
+Answer:","{
+    ""A"": ""band"",
+    ""B"": ""debate"",
+    ""C"": ""political factions"",
+    ""D"": ""street dance club""
+}"
+Sa-en-22_0,Sa-en-22,UK,"What is the most famous university in the UK known for its sports team? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. guwahati
+B. national autonomous university of mexico
+C. oxford
+D. ucam
+
+Answer:","{
+    ""A"": ""guwahati"",
+    ""B"": ""national autonomous university of mexico"",
+    ""C"": ""oxford"",
+    ""D"": ""ucam""
+}"
+New-ch-81_10,New-ch-81,US,"What are the typical housewarming gifts in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. coin
+C. tissue
+D. wine
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""coin"",
+    ""C"": ""tissue"",
+    ""D"": ""wine""
+}"
+Ji-ko-24_0,Ji-ko-24,UK,"What is the most preferred recreational facility among children in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ednamall
+B. garden
+C. park
+D. swimming pool
+
+Answer:","{
+    ""A"": ""ednamall"",
+    ""B"": ""garden"",
+    ""C"": ""park"",
+    ""D"": ""swimming pool""
+}"
+Ki-pe-51_73,Ki-pe-51,Iran,"What time of day are government offices closed in Iran? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 14:00
+B. 15:00
+C. 17:30
+D. 18:00
+
+Answer:","{
+    ""A"": ""14:00"",
+    ""B"": ""15:00"",
+    ""C"": ""17:30"",
+    ""D"": ""18:00""
+}"
+Na-ko-33_230,Na-ko-33,Iran,"What symbolic food do people from Iran eat on (Lunar) New Year? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dumplings
+B. noodles
+C. not-applicable
+D. sliced rice cake soup
+
+Answer:","{
+    ""A"": ""dumplings"",
+    ""B"": ""noodles"",
+    ""C"": ""not-applicable"",
+    ""D"": ""sliced rice cake soup""
+}"
+Ji-ko-24_195,Ji-ko-24,Iran,"What is the most preferred recreational facility among children in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ednamall
+B. garden
+C. park
+D. swing
+
+Answer:","{
+    ""A"": ""ednamall"",
+    ""B"": ""garden"",
+    ""C"": ""park"",
+    ""D"": ""swing""
+}"
+New-in-03_220,New-in-03,US,"What type of food from the US is typically served in restaurants overseas? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. burgers
+B. couscous
+C. paella
+D. tacos
+
+Answer:","{
+    ""A"": ""burgers"",
+    ""B"": ""couscous"",
+    ""C"": ""paella"",
+    ""D"": ""tacos""
+}"
+New-ch-09_10,New-ch-09,US,"What food do people typically consume when the weather is cold in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. legumes
+C. soup
+D. tangyuan
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""legumes"",
+    ""C"": ""soup"",
+    ""D"": ""tangyuan""
+}"
+Th-en-03_0,Th-en-03,UK,"What is the most popular professional sports league in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kbo
+B. liga bbva mx
+C. premier league
+D. tour de france
+
+Answer:","{
+    ""A"": ""kbo"",
+    ""B"": ""liga bbva mx"",
+    ""C"": ""premier league"",
+    ""D"": ""tour de france""
+}"
+Ji-ko-24_10,Ji-ko-24,US,"What is the most preferred recreational facility among children in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ednamall
+B. garden
+C. park playground
+D. timezone
+
+Answer:","{
+    ""A"": ""ednamall"",
+    ""B"": ""garden"",
+    ""C"": ""park playground"",
+    ""D"": ""timezone""
+}"
+New-ko-01_56,New-ko-01,US,"What is the most popular children's animation that is commonly watched by kids in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. boy general
+B. paw patrol
+C. pleasant goat and big big wolf
+D. spongebob
+
+Answer:","{
+    ""A"": ""boy general"",
+    ""B"": ""paw patrol"",
+    ""C"": ""pleasant goat and big big wolf"",
+    ""D"": ""spongebob""
+}"
+Ni-en-03_15,Ni-en-03,China,"At what age do people in China typically go to university? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 17
+B. 18
+C. 20
+D. 35
+
+Answer:","{
+    ""A"": ""17"",
+    ""B"": ""18"",
+    ""C"": ""20"",
+    ""D"": ""35""
+}"
+Jod-ch-12_44,Jod-ch-12,Iran,"What kind of soup do people from Iran like to have? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barley soup
+B. gazpacho
+C. macaroni
+D. vegetable
+
+Answer:","{
+    ""A"": ""barley soup"",
+    ""B"": ""gazpacho"",
+    ""C"": ""macaroni"",
+    ""D"": ""vegetable""
+}"
+Na-ko-43_0,Na-ko-43,UK,"What do people do in the UK in the morning of the (Lunar) New Year? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eat the leftovers from the previous night
+B. new year's bow
+C. not-applicable
+D. visiting relatives
+
+Answer:","{
+    ""A"": ""eat the leftovers from the previous night"",
+    ""B"": ""new year's bow"",
+    ""C"": ""not-applicable"",
+    ""D"": ""visiting relatives""
+}"
+Ki-pe-34_0,Ki-pe-34,UK,"What is the usual drink in the breakfast in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. carbonated soda
+B. coffee
+C. pap
+D. soy milk
+
+Answer:","{
+    ""A"": ""carbonated soda"",
+    ""B"": ""coffee"",
+    ""C"": ""pap"",
+    ""D"": ""soy milk""
+}"
+Na-ko-18_100,Na-ko-18,China,"What is the most common sport girls participate in during physical education classes in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. dodgeball
+C. netball
+D. race
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""dodgeball"",
+    ""C"": ""netball"",
+    ""D"": ""race""
+}"
+Th-en-01_0,Th-en-01,UK,"What is the most popular summer sport in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. cricket
+D. swimming
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""cricket"",
+    ""D"": ""swimming""
+}"
+New-en-10_0,New-en-10,UK,"What is the most eaten cheese in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheddar
+B. feta
+C. from la mancha
+D. oaxaca cheese
+
+Answer:","{
+    ""A"": ""cheddar"",
+    ""B"": ""feta"",
+    ""C"": ""from la mancha"",
+    ""D"": ""oaxaca cheese""
+}"
+New-en-04_0,New-en-04,UK,"Who is a popular celebrity chef in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Gordon Ramsay
+B. nayanjyoti saikia
+C. paik jong-won
+D. petretzikis
+
+Answer:","{
+    ""A"": ""Gordon Ramsay"",
+    ""B"": ""nayanjyoti saikia"",
+    ""C"": ""paik jong-won"",
+    ""D"": ""petretzikis""
+}"
+Ne-ar-39_954,Ne-ar-39,Iran,"What is the cheapest fast food in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doner kebab
+B. falafel
+C. karantika
+D. mcdonalds
+
+Answer:","{
+    ""A"": ""doner kebab"",
+    ""B"": ""falafel"",
+    ""C"": ""karantika"",
+    ""D"": ""mcdonalds""
+}"
+New-en-02_0,New-en-02,UK,"What is the most popular chip/crisp flavour in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. oregano
+B. paprika
+C. salted
+D. spicy
+
+Answer:","{
+    ""A"": ""oregano"",
+    ""B"": ""paprika"",
+    ""C"": ""salted"",
+    ""D"": ""spicy""
+}"
+New-en-59_84,New-en-59,US,"Which country is the most popular destination for families from the US to emigrate to? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. canada
+B. germany
+C. russia
+D. united states
+
+Answer:","{
+    ""A"": ""canada"",
+    ""B"": ""germany"",
+    ""C"": ""russia"",
+    ""D"": ""united states""
+}"
+New-gr-29_40,New-gr-29,Iran,"Which international sporting event is the most popular in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. fifa world cup
+C. super bowl
+D. tour de france
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""fifa world cup"",
+    ""C"": ""super bowl"",
+    ""D"": ""tour de france""
+}"
+Ni-en-06_6,Ni-en-06,US,"From what age do people need to attend compulsory education in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 5
+C. 7
+D. 8
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""5"",
+    ""C"": ""7"",
+    ""D"": ""8""
+}"
+New-ch-02_31,New-ch-02,China,"When do people usually have breakfast in China? (Provide in HH:MM format (e.g., 18:00, 09:00).) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 07:00
+B. 08:30
+C. 09:00
+D. 13:45
+
+Answer:","{
+    ""A"": ""07:00"",
+    ""B"": ""08:30"",
+    ""C"": ""09:00"",
+    ""D"": ""13:45""
+}"
+Th-en-12_1165,Th-en-12,Iran,"In which sport has Iran been most successful in international competitions? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. ping pong
+C. soccer
+D. wrestling
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""ping pong"",
+    ""C"": ""soccer"",
+    ""D"": ""wrestling""
+}"
+New-ko-04_223,New-ko-04,Iran,"Which toys are most popular among boys in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbecue
+B. car
+C. lego
+D. video games
+
+Answer:","{
+    ""A"": ""barbecue"",
+    ""B"": ""car"",
+    ""C"": ""lego"",
+    ""D"": ""video games""
+}"
+New-az-39_0,New-az-39,UK,"Which country is the most popular destination for students from the UK studying abroad? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. america
+B. france
+C. italy
+D. turkey
+
+Answer:","{
+    ""A"": ""america"",
+    ""B"": ""france"",
+    ""C"": ""italy"",
+    ""D"": ""turkey""
+}"
+New-en-12_468,New-en-12,Iran,"What food is most commonly found in food courts in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. paella
+B. pizza
+C. tacos
+D. tofu rice
+
+Answer:","{
+    ""A"": ""paella"",
+    ""B"": ""pizza"",
+    ""C"": ""tacos"",
+    ""D"": ""tofu rice""
+}"
+Kik-in-34_186,Kik-in-34,China,"What sports are often broadcasted on national television in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. american football
+B. baseball
+C. cricket
+D. table tennis
+
+Answer:","{
+    ""A"": ""american football"",
+    ""B"": ""baseball"",
+    ""C"": ""cricket"",
+    ""D"": ""table tennis""
+}"
+New-ha-13_0,New-ha-13,UK,"Which is the most popular vegetable in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cabbage
+B. carrots
+C. cucumber
+D. water spinach
+
+Answer:","{
+    ""A"": ""cabbage"",
+    ""B"": ""carrots"",
+    ""C"": ""cucumber"",
+    ""D"": ""water spinach""
+}"
+New-spme-05_223,New-spme-05,Iran,"What are the most popular sweets in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate
+B. coconut laddu
+C. language
+D. sweet martabak
+
+Answer:","{
+    ""A"": ""chocolate"",
+    ""B"": ""coconut laddu"",
+    ""C"": ""language"",
+    ""D"": ""sweet martabak""
+}"
+Ni-en-06_0,Ni-en-06,UK,"From what age do people need to attend compulsory education in the UK? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 5
+C. 6
+D. 8
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""5"",
+    ""C"": ""6"",
+    ""D"": ""8""
+}"
+Na-ko-23_0,Na-ko-23,UK,"What type of sports academies do children attend the most in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. cooking school
+C. soccer
+D. taekwondo
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""cooking school"",
+    ""C"": ""soccer"",
+    ""D"": ""taekwondo""
+}"
+Al-en-40_27,Al-en-40,China,"What is a popular outdoor place for families to have fun with little kids in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. boulevard
+B. children's park
+C. science museum
+D. squares
+
+Answer:","{
+    ""A"": ""boulevard"",
+    ""B"": ""children's park"",
+    ""C"": ""science museum"",
+    ""D"": ""squares""
+}"
+Al-en-37_0,Al-en-37,UK,"What food is associated with Christmas in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gingerbread
+B. melomakarona
+C. roasted pork leg
+D. turkey
+
+Answer:","{
+    ""A"": ""gingerbread"",
+    ""B"": ""melomakarona"",
+    ""C"": ""roasted pork leg"",
+    ""D"": ""turkey""
+}"
+Jod-ch-37_136,Jod-ch-37,Iran,"What sports do women like to watch the most in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. baseball
+C. basketball
+D. football
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""baseball"",
+    ""C"": ""basketball"",
+    ""D"": ""football""
+}"
+Th-en-45_198,Th-en-45,Iran,"What is the most popular weekday evening family activity in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cooking
+B. dinner
+C. television
+D. watching tv
+
+Answer:","{
+    ""A"": ""cooking"",
+    ""B"": ""dinner"",
+    ""C"": ""television"",
+    ""D"": ""watching tv""
+}"
+Ji-ko-19_7,Ji-ko-19,China,"What is China's most commonly given flower on Parents' Day? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. carnation
+B. not-applicable
+C. rose
+D. tulip
+
+Answer:","{
+    ""A"": ""carnation"",
+    ""B"": ""not-applicable"",
+    ""C"": ""rose"",
+    ""D"": ""tulip""
+}"
+Kik-in-11_0,Kik-in-11,UK,"What is the most popular religious sites (temple, church, etc.) for tourism in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. axum zion
+B. basilica of guadalupe
+C. borobudur
+D. westminster abbey
+
+Answer:","{
+    ""A"": ""axum zion"",
+    ""B"": ""basilica of guadalupe"",
+    ""C"": ""borobudur"",
+    ""D"": ""westminster abbey""
+}"
+Th-en-15_8,Th-en-15,US,"What is the most popular winter sport in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hockey
+B. rugby
+C. running
+D. skating
+
+Answer:","{
+    ""A"": ""hockey"",
+    ""B"": ""rugby"",
+    ""C"": ""running"",
+    ""D"": ""skating""
+}"
+New-as-05_150,New-as-05,Iran,"What is the most typical drink offered to guests when they visit households in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. tea
+C. tela
+D. water
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""tea"",
+    ""C"": ""tela"",
+    ""D"": ""water""
+}"
+Al-en-34_252,Al-en-34,China,"What do people do to celebrate New Year's Day in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbeque
+B. drink (party)
+C. eat grapes at 12
+D. pasting chinese couplets
+
+Answer:","{
+    ""A"": ""barbeque"",
+    ""B"": ""drink (party)"",
+    ""C"": ""eat grapes at 12"",
+    ""D"": ""pasting chinese couplets""
+}"
+New-su-60_10,New-su-60,China,"What do farmers in China usually eat for lunch? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans
+B. laban
+C. rice
+D. soup
+
+Answer:","{
+    ""A"": ""beans"",
+    ""B"": ""laban"",
+    ""C"": ""rice"",
+    ""D"": ""soup""
+}"
+New-ch-15_59,New-ch-15,China,"What prepared/ready-to-eat food do people typically buy at supermarkets in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. curry
+C. instant noodles
+D. pizzas
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""curry"",
+    ""C"": ""instant noodles"",
+    ""D"": ""pizzas""
+}"
+Al-en-02_0,Al-en-02,UK,"What is a popular food to go with beer in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. crisps
+B. fried chicken
+C. squid
+D. tacos
+
+Answer:","{
+    ""A"": ""crisps"",
+    ""B"": ""fried chicken"",
+    ""C"": ""squid"",
+    ""D"": ""tacos""
+}"
+Gu-ch-18_0,Gu-ch-18,UK,"How many children do couples usually have in the UK? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 2
+C. 3
+D. 5
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""2"",
+    ""C"": ""3"",
+    ""D"": ""5""
+}"
+New-pe-66_96,New-pe-66,China,"What is the most popular after school curricular in primary schools in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. exercise
+B. foreign languages
+C. painting
+D. soccer
+
+Answer:","{
+    ""A"": ""exercise"",
+    ""B"": ""foreign languages"",
+    ""C"": ""painting"",
+    ""D"": ""soccer""
+}"
+Th-en-41_324,Th-en-41,Iran,"What is the average age for couples to have their first child in Iran? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 25
+C. 27
+D. 28
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""25"",
+    ""C"": ""27"",
+    ""D"": ""28""
+}"
+New-am-72_30,New-am-72,China,"What is the most popular comic book for children to read in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. a shuai
+B. beano
+C. doraemon
+D. spiderman
+
+Answer:","{
+    ""A"": ""a shuai"",
+    ""B"": ""beano"",
+    ""C"": ""doraemon"",
+    ""D"": ""spiderman""
+}"
+New-su-82_0,New-su-82,UK,"What clothes do brides usually wear at weddings in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business suit
+B. dress
+C. karakou
+D. velo
+
+Answer:","{
+    ""A"": ""business suit"",
+    ""B"": ""dress"",
+    ""C"": ""karakou"",
+    ""D"": ""velo""
+}"
+New-pe-20_28,New-pe-20,China,"What sport is popular to play on the beach in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. American Football
+B. rackets
+C. shovels
+D. surfing
+
+Answer:","{
+    ""A"": ""American Football"",
+    ""B"": ""rackets"",
+    ""C"": ""shovels"",
+    ""D"": ""surfing""
+}"
+New-az-39_252,New-az-39,China,"Which country is the most popular destination for students from China studying abroad? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. america
+B. france
+C. italy
+D. turkey
+
+Answer:","{
+    ""A"": ""america"",
+    ""B"": ""france"",
+    ""C"": ""italy"",
+    ""D"": ""turkey""
+}"
+Kik-in-15_5,Kik-in-15,US,"What clothes do women usually wear on graduation commencement ceremony in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. graduation cap
+B. sador mekhela
+C. school uniform
+D. suit
+
+Answer:","{
+    ""A"": ""graduation cap"",
+    ""B"": ""sador mekhela"",
+    ""C"": ""school uniform"",
+    ""D"": ""suit""
+}"
+Ta-pe-25_6,Ta-pe-25,US,"What is the most famous rivalry in a national sports league in the US? (e.g., ___ vs ___) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Boston Red Sox vs New York Yankees
+B. ibm vs microsoft
+C. persib versus persija
+D. real madrid against fcb
+
+Answer:","{
+    ""A"": ""Boston Red Sox vs New York Yankees"",
+    ""B"": ""ibm vs microsoft"",
+    ""C"": ""persib versus persija"",
+    ""D"": ""real madrid against fcb""
+}"
+Kik-in-34_0,Kik-in-34,UK,"What sports are often broadcasted on national television in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. basketball
+C. soccer
+D. volleyball
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""basketball"",
+    ""C"": ""soccer"",
+    ""D"": ""volleyball""
+}"
+Sa-en-9_0,Sa-en-9,UK,"What do people from the UK eat at the beach? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ice cream
+B. russian salad
+C. skewers
+D. watermelon
+
+Answer:","{
+    ""A"": ""ice cream"",
+    ""B"": ""russian salad"",
+    ""C"": ""skewers"",
+    ""D"": ""watermelon""
+}"
+Ne-ar-38_0,Ne-ar-38,UK,"Which food do people usually offer as charity in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. gheimeh
+C. rice
+D. tinned food
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""gheimeh"",
+    ""C"": ""rice"",
+    ""D"": ""tinned food""
+}"
+Al-en-02_132,Al-en-02,China,"What is a popular food to go with beer in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. crisps
+B. peanuts
+C. squid
+D. tacos
+
+Answer:","{
+    ""A"": ""crisps"",
+    ""B"": ""peanuts"",
+    ""C"": ""squid"",
+    ""D"": ""tacos""
+}"
+Gu-ch-09_0,Gu-ch-09,UK,"What sports do women like to play the most in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. badminton
+B. gymnastics
+C. soccer
+D. volleyball
+
+Answer:","{
+    ""A"": ""badminton"",
+    ""B"": ""gymnastics"",
+    ""C"": ""soccer"",
+    ""D"": ""volleyball""
+}"
+New-en-76_852,New-en-76,Iran,"Which airport in Iran is the busiest during the holiday season? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eleftherios venizelos
+B. heathrow
+C. houari boumediene
+D. imam khomeini airport
+
+Answer:","{
+    ""A"": ""eleftherios venizelos"",
+    ""B"": ""heathrow"",
+    ""C"": ""houari boumediene"",
+    ""D"": ""imam khomeini airport""
+}"
+New-ha-66_0,New-ha-66,UK,"What is the most popular wedding venue in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gretna green
+B. hotel
+C. mosque
+D. wedding hall
+
+Answer:","{
+    ""A"": ""gretna green"",
+    ""B"": ""hotel"",
+    ""C"": ""mosque"",
+    ""D"": ""wedding hall""
+}"
+New-az-60_55,New-az-60,Iran,"In Iran, who takes care of kids when both parents are working? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. housemaid
+B. nanny
+C. nurse
+D. robotic caregiver
+
+Answer:","{
+    ""A"": ""housemaid"",
+    ""B"": ""nanny"",
+    ""C"": ""nurse"",
+    ""D"": ""robotic caregiver""
+}"
+New-en-07_10,New-en-07,US,"What are the most popular cooking shows in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. a bite of china
+B. akushi da rufi
+C. chopped
+D. common sense in cooking
+
+Answer:","{
+    ""A"": ""a bite of china"",
+    ""B"": ""akushi da rufi"",
+    ""C"": ""chopped"",
+    ""D"": ""common sense in cooking""
+}"
+New-su-57_0,New-su-57,UK,"What is the most common livestock raised in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cows
+B. dog
+C. goat
+D. wheat
+
+Answer:","{
+    ""A"": ""cows"",
+    ""B"": ""dog"",
+    ""C"": ""goat"",
+    ""D"": ""wheat""
+}"
+New-pe-78_50,New-pe-78,China,"What is the name of the most famous film festival held in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beijing international film festival
+B. of thessaloniki
+C. oran
+D. san sebastian cinema
+
+Answer:","{
+    ""A"": ""beijing international film festival"",
+    ""B"": ""of thessaloniki"",
+    ""C"": ""oran"",
+    ""D"": ""san sebastian cinema""
+}"
+Gu-ch-32_0,Gu-ch-32,US,"What is the duration of compulsory education in years in the US? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 10
+B. 12
+C. 15
+D. 9
+
+Answer:","{
+    ""A"": ""10"",
+    ""B"": ""12"",
+    ""C"": ""15"",
+    ""D"": ""9""
+}"
+Th-en-41_35,Th-en-41,US,"What is the average age for couples to have their first child in the US? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 30
+C. 31
+D. 32
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""30"",
+    ""C"": ""31"",
+    ""D"": ""32""
+}"
+Jod-ch-13_1509,Jod-ch-13,China,"What street food do people from China like to eat? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. doner kebab
+B. roasted sausage
+C. stir-fried rice cakes
+D. tacos
+
+Answer:","{
+    ""A"": ""doner kebab"",
+    ""B"": ""roasted sausage"",
+    ""C"": ""stir-fried rice cakes"",
+    ""D"": ""tacos""
+}"
+Ji-ko-35_74,Ji-ko-35,Iran,"What is the most common form of private education in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. colleges
+B. english
+C. private tutor
+D. semi-private
+
+Answer:","{
+    ""A"": ""colleges"",
+    ""B"": ""english"",
+    ""C"": ""private tutor"",
+    ""D"": ""semi-private""
+}"
+New-ch-38_364,New-ch-38,US,"Which cities or regions are known for their import and export activities in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barcelona
+B. busan
+C. london
+D. new york city
+
+Answer:","{
+    ""A"": ""barcelona"",
+    ""B"": ""busan"",
+    ""C"": ""london"",
+    ""D"": ""new york city""
+}"
+New-su-83_1,New-su-83,UK,"What food is usually served at weddings in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. couscous
+C. kebab
+D. red stew
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""couscous"",
+    ""C"": ""kebab"",
+    ""D"": ""red stew""
+}"
+New-gr-13_0,New-gr-13,UK,"What is the most common morning drink in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate milk
+B. coffee
+C. millet or sorghum porridge
+D. soy milk
+
+Answer:","{
+    ""A"": ""chocolate milk"",
+    ""B"": ""coffee"",
+    ""C"": ""millet or sorghum porridge"",
+    ""D"": ""soy milk""
+}"
+Ca-sp-06_9,Ca-sp-06,China,"Which is the most important meal of the day to people from China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dinner
+B. gym workout
+C. injera
+D. rice
+
+Answer:","{
+    ""A"": ""dinner"",
+    ""B"": ""gym workout"",
+    ""C"": ""injera"",
+    ""D"": ""rice""
+}"
+Ca-sp-06_16,Ca-sp-06,Iran,"Which is the most important meal of the day to people from Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gym workout
+B. injera
+C. lunch
+D. rice
+
+Answer:","{
+    ""A"": ""gym workout"",
+    ""B"": ""injera"",
+    ""C"": ""lunch"",
+    ""D"": ""rice""
+}"
+Ne-ar-32_56,Ne-ar-32,US,"What do people usually have for breakfast in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheese
+B. chilaquiles
+C. eggs
+D. rice
+
+Answer:","{
+    ""A"": ""cheese"",
+    ""B"": ""chilaquiles"",
+    ""C"": ""eggs"",
+    ""D"": ""rice""
+}"
+Jod-ch-04_56,Jod-ch-04,US,"What soft drink do people in the US like to have? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Coke
+B. hibiscus drink
+C. lemonade
+D. sparkling water
+
+Answer:","{
+    ""A"": ""Coke"",
+    ""B"": ""hibiscus drink"",
+    ""C"": ""lemonade"",
+    ""D"": ""sparkling water""
+}"
+Al-en-06_279,Al-en-06,Iran,"What is a common school cafeteria food in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kimchi
+B. pizza
+C. sandwich
+D. tea
+
+Answer:","{
+    ""A"": ""kimchi"",
+    ""B"": ""pizza"",
+    ""C"": ""sandwich"",
+    ""D"": ""tea""
+}"
+New-ch-13_0,New-ch-13,UK,"What is the most famous alcohol brand in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bir bintang
+B. jinro is back
+C. moutai liquor
+D. stella
+
+Answer:","{
+    ""A"": ""bir bintang"",
+    ""B"": ""jinro is back"",
+    ""C"": ""moutai liquor"",
+    ""D"": ""stella""
+}"
+New-en-90_240,New-en-90,US,"What is the most famous hotel brand in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. espinas palace
+B. hilton
+C. koryo hotel
+D. the shilla
+
+Answer:","{
+    ""A"": ""espinas palace"",
+    ""B"": ""hilton"",
+    ""C"": ""koryo hotel"",
+    ""D"": ""the shilla""
+}"
+Kik-in-04_18,Kik-in-04,Iran,"What is installed in front of the house when a family member dies in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black fabric
+B. mat
+C. not-applicable
+D. yellow flag
+
+Answer:","{
+    ""A"": ""black fabric"",
+    ""B"": ""mat"",
+    ""C"": ""not-applicable"",
+    ""D"": ""yellow flag""
+}"
+New-spme-05_35,New-spme-05,US,"What are the most popular sweets in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate
+B. dessert made of filo pastry sheets
+C. sweet martabak
+D. tel pitha
+
+Answer:","{
+    ""A"": ""chocolate"",
+    ""B"": ""dessert made of filo pastry sheets"",
+    ""C"": ""sweet martabak"",
+    ""D"": ""tel pitha""
+}"
+Ta-pe-22_85,Ta-pe-22,Iran,"Which daily exercise is popular among women in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. knitting
+B. pilates
+C. walking
+D. zumba
+
+Answer:","{
+    ""A"": ""knitting"",
+    ""B"": ""pilates"",
+    ""C"": ""walking"",
+    ""D"": ""zumba""
+}"
+Ji-ko-35_50,Ji-ko-35,China,"What is the most common form of private education in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. academy
+B. colleges
+C. private school
+D. semi-private
+
+Answer:","{
+    ""A"": ""academy"",
+    ""B"": ""colleges"",
+    ""C"": ""private school"",
+    ""D"": ""semi-private""
+}"
+New-gr-06_0,New-gr-06,UK,"What is the most popular food in the UK among young people? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fast food
+B. hot pot
+C. shiro wote
+D. tacos
+
+Answer:","{
+    ""A"": ""fast food"",
+    ""B"": ""hot pot"",
+    ""C"": ""shiro wote"",
+    ""D"": ""tacos""
+}"
+New-en-49_168,New-en-49,China,"What is the name of the most famous family in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. derbez
+B. father
+C. li ka-shing
+D. trump
+
+Answer:","{
+    ""A"": ""derbez"",
+    ""B"": ""father"",
+    ""C"": ""li ka-shing"",
+    ""D"": ""trump""
+}"
+New-pe-45_14,New-pe-45,Iran,"What is the usual work schedule during the month of Ramadan in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fewer working hours
+B. holiday
+C. not-applicable
+D. same
+
+Answer:","{
+    ""A"": ""fewer working hours"",
+    ""B"": ""holiday"",
+    ""C"": ""not-applicable"",
+    ""D"": ""same""
+}"
+New-in-80_0,New-in-80,UK,"What is the most famous theme park in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Disney World
+B. alton towers
+C. everland
+D. six flags
+
+Answer:","{
+    ""A"": ""Disney World"",
+    ""B"": ""alton towers"",
+    ""C"": ""everland"",
+    ""D"": ""six flags""
+}"
+New-in-80_35,New-in-80,US,"What is the most famous theme park in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Disney World
+B. alton towers
+C. eram park
+D. six flags
+
+Answer:","{
+    ""A"": ""Disney World"",
+    ""B"": ""alton towers"",
+    ""C"": ""eram park"",
+    ""D"": ""six flags""
+}"
+Th-en-41_177,Th-en-41,China,"What is the average age for couples to have their first child in China? (Provide Arabic numerals (e.g., 20) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 25
+C. 27
+D. 30
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""25"",
+    ""C"": ""27"",
+    ""D"": ""30""
+}"
+New-ch-31_0,New-ch-31,US,"What job do parents most hope their children will pursue in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chef
+B. civil servant
+C. doctor
+D. medicine
+
+Answer:","{
+    ""A"": ""chef"",
+    ""B"": ""civil servant"",
+    ""C"": ""doctor"",
+    ""D"": ""medicine""
+}"
+New-pe-83_588,New-pe-83,Iran,"What is the popular card game played during social gatherings in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. court piece
+B. durak
+C. matgo
+D. sasaki
+
+Answer:","{
+    ""A"": ""court piece"",
+    ""B"": ""durak"",
+    ""C"": ""matgo"",
+    ""D"": ""sasaki""
+}"
+New-en-01_21,New-en-01,China,"Which snack is eaten in the cinema in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. hummus
+C. nachos
+D. popcorn
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""hummus"",
+    ""C"": ""nachos"",
+    ""D"": ""popcorn""
+}"
+Th-en-44_287,Th-en-44,China,"What is China's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. ghormeh sabzi
+C. hot pot
+D. pizza
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""ghormeh sabzi"",
+    ""C"": ""hot pot"",
+    ""D"": ""pizza""
+}"
+Ki-pe-30_10,Ki-pe-30,Iran,"What days of the week are schools closed in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. friday
+B. full moon
+C. saturday
+D. sunday
+
+Answer:","{
+    ""A"": ""friday"",
+    ""B"": ""full moon"",
+    ""C"": ""saturday"",
+    ""D"": ""sunday""
+}"
+New-am-02_0,New-am-02,UK,"What is the most popular traditional food in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. fish & chips
+C. mixed rice
+D. paella
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""fish & chips"",
+    ""C"": ""mixed rice"",
+    ""D"": ""paella""
+}"
+Na-ko-24_0,Na-ko-24,UK,"What is the most commonly eaten food in sports stadiums while watching games in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Pies
+B. fried chicken
+C. peanut
+D. popcorn
+
+Answer:","{
+    ""A"": ""Pies"",
+    ""B"": ""fried chicken"",
+    ""C"": ""peanut"",
+    ""D"": ""popcorn""
+}"
+Jod-ch-30_84,Jod-ch-30,US,"What are the specific decorations or symbols associated with the biggest festival in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. Xmas
+B. chinese knot
+C. haft-seen
+D. ketupat
+
+Answer:","{
+    ""A"": ""Xmas"",
+    ""B"": ""chinese knot"",
+    ""C"": ""haft-seen"",
+    ""D"": ""ketupat""
+}"
+New-as-14_114,New-as-14,China,"What food do people from China like to eat during rainy weather? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fritter
+B. hot pot
+C. lentils
+D. meatball
+
+Answer:","{
+    ""A"": ""fritter"",
+    ""B"": ""hot pot"",
+    ""C"": ""lentils"",
+    ""D"": ""meatball""
+}"
+Al-en-01_447,Al-en-01,Iran,"What is a common snack for preschool kids in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate paste
+B. cilok
+C. cookie
+D. fruit
+
+Answer:","{
+    ""A"": ""chocolate paste"",
+    ""B"": ""cilok"",
+    ""C"": ""cookie"",
+    ""D"": ""fruit""
+}"
+Al-en-04_1,Al-en-04,UK,"What is the most popular fruit in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. durian
+C. orange
+D. pear
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""durian"",
+    ""C"": ""orange"",
+    ""D"": ""pear""
+}"
+New-en-69_2156,New-en-69,Iran,"Which writers are commonly studied in literature class in Iran? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cervantes
+B. jalal al-e ahmad
+C. lu xun
+D. nezāmi
+
+Answer:","{
+    ""A"": ""cervantes"",
+    ""B"": ""jalal al-e ahmad"",
+    ""C"": ""lu xun"",
+    ""D"": ""nezāmi""
+}"
+Kik-in-11_336,Kik-in-11,China,"What is the most popular religious sites (temple, church, etc.) for tourism in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. axum zion
+B. borobudur
+C. bulguksa
+D. shaolin temple
+
+Answer:","{
+    ""A"": ""axum zion"",
+    ""B"": ""borobudur"",
+    ""C"": ""bulguksa"",
+    ""D"": ""shaolin temple""
+}"
+Th-en-48_96,Th-en-48,China,"What is the highest grade given to top-achieving high school students on assignments and exams in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 10
+C. 100
+D. 20
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""10"",
+    ""C"": ""100"",
+    ""D"": ""20""
+}"
+New-in-01_56,New-in-01,US,"Which coffee shop brand is the most popular in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. costa
+B. kopi kenangan
+C. starbucks
+D. yirga chefie
+
+Answer:","{
+    ""A"": ""costa"",
+    ""B"": ""kopi kenangan"",
+    ""C"": ""starbucks"",
+    ""D"": ""yirga chefie""
+}"
+New-ch-04_40,New-ch-04,US,"What kinds of food do people usually eat for late-night snacks in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. fried chicken
+C. rice
+D. skewers
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""fried chicken"",
+    ""C"": ""rice"",
+    ""D"": ""skewers""
+}"
+New-su-83_35,New-su-83,US,"What food is usually served at weddings in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. couscous
+C. fish
+D. kebab
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""couscous"",
+    ""C"": ""fish"",
+    ""D"": ""kebab""
+}"
+Ni-en-20_206,Ni-en-20,China,"At what age do most people start working in China? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 18
+B. 22
+C. 25
+D. 27
+
+Answer:","{
+    ""A"": ""18"",
+    ""B"": ""22"",
+    ""C"": ""25"",
+    ""D"": ""27""
+}"
+Jod-ch-06_20,Jod-ch-06,US,"What is the most popular traditional alcohol in the US? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bai
+B. beer
+C. rice liquor
+D. tsipouro
+
+Answer:","{
+    ""A"": ""bai"",
+    ""B"": ""beer"",
+    ""C"": ""rice liquor"",
+    ""D"": ""tsipouro""
+}"
+New-spme-60_10,New-spme-60,China,"Which day of the week do most families in China practice religious activities? (e.g. Monday, Tuesday) Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. friday
+B. not-applicable
+C. sunday
+D. valentine's day
+
+Answer:","{
+    ""A"": ""friday"",
+    ""B"": ""not-applicable"",
+    ""C"": ""sunday"",
+    ""D"": ""valentine's day""
+}"
+Al-en-35_0,Al-en-35,UK,"What do people do to celebrate Christmas in the UK? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. date
+B. family gathering
+C. give gifts
+D. go to church
+
+Answer:","{
+    ""A"": ""date"",
+    ""B"": ""family gathering"",
+    ""C"": ""give gifts"",
+    ""D"": ""go to church""
+}"
+Th-en-19_1650,Th-en-19,Iran,"What is a city or region in Iran known for manufacturing industry? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. detroit
+B. isfahan
+C. kerawang
+D. sumgait
+
+Answer:","{
+    ""A"": ""detroit"",
+    ""B"": ""isfahan"",
+    ""C"": ""kerawang"",
+    ""D"": ""sumgait""
+}"
+New-am-02_450,New-am-02,China,"What is the most popular traditional food in China? Without any explanation, choose only one from the given alphabet choices(e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. dumplings
+C. mixed rice
+D. paella
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""dumplings"",
+    ""C"": ""mixed rice"",
+    ""D"": ""paella""
+}"
